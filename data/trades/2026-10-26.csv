@@ -1,4 +1,10 @@
 ticker,company,insider,title,trade_type,filing_time,trade_date,price,qty,value,flags
+GROW,U S Global Investors Inc,"Gator Capital Management, LLC",10%,P - Purchase,2026-10-26 14:18:11,2026-10-23,2.58,4532,11692.0,
+GROW,U S Global Investors Inc,Pilecki Derek Steven,Control Person,P - Purchase,2026-10-26 14:09:52,2026-10-23,2.58,4532,11692.0,
+XFLT,Xai Floating Rate & Alternative Income Trust,Spence John Yogi,VP,P - Purchase,2026-10-26 12:14:59,2026-10-23,16.5,1000,16500.0,
+AIM,Aim Immunotech Inc.,Equels Thomas K,"CEO, Pres",P - Purchase,2026-10-26 12:12:12,2026-10-23,0.16,31675,5068.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-26 08:44:12,2026-10-22,12.48,170320,2126091.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-26 08:00:17,2026-10-23,0.85,6000,5083.0,
 BPRE,Bluerock Private Real Estate Fund,Ruddy Jordan B.,Pres,P - Purchase,2026-10-23 21:34:10,2026-10-21,12.25,2040,24987.0,
 NMHI,Nature'S Miracle Holding Inc.,Adair Kathleen Theresa,10%,P - Purchase,2026-10-23 21:24:50,2026-10-06,0.0,11600000,6958.0,M
 PNI,Pimco New York Municipal Income Fund II,Bank of America Corp /de/,10%,P - Purchase,2026-10-23 18:11:49,2026-10-21,6.33,12170,77085.0,

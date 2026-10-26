@@ -1,6 +1,6 @@
 # Insider cluster buys, 2026-10-26
 
-Generated 2026-10-26 00:20 Pacific. Trade dates 2026-09-27 to 2026-10-26. Open-market purchases (code P) only, 2+ different insiders per company.
+Generated 2026-10-26 12:01 Pacific. Trade dates 2026-09-27 to 2026-10-26. Open-market purchases (code P) only, 2+ different insiders per company.
 
 **17 confirmed** out of 100 on OpenInsider's latest cluster buys page.
 
@@ -15,7 +15,7 @@ Read-only research. Nothing here is an order or a recommendation.
 | 3 | [RAPP](http://openinsider.com/RAPP) | Rapport Therapeutics, Inc. | 6 | 6 | $1,664,825 | 2026-10-21 | 2026-10-23 | 2026-10-23 |
 | 4 | [ACCV](http://openinsider.com/ACCV) | Accelevation Holdings Corp. | 5 | 5 | $4,098,600 | 2026-10-01 | 2026-10-01 | 2026-10-05 |
 | 5 | [PRHI](http://openinsider.com/PRHI) | Presurance Holdings, Inc. | 5 | 5 | $248,878 | 2026-09-30 | 2026-09-30 | 2026-10-01 |
-| 6 | [BPRE](http://openinsider.com/BPRE) | Bluerock Private Real Estate Fund | 3 | 11 | $28,722,173 | 2026-09-28 | 2026-10-21 | 2026-10-23 |
+| 6 | [BPRE](http://openinsider.com/BPRE) | Bluerock Private Real Estate Fund | 3 | 12 | $30,848,264 | 2026-09-28 | 2026-10-22 | 2026-10-26 |
 | 7 | [NXG](http://openinsider.com/NXG) | Nxg Nextgen Infrastructure Income Fund | 3 | 3 | $525,575 | 2026-10-19 | 2026-10-23 | 2026-10-23 |
 | 8 | [AGMB](http://openinsider.com/AGMB) | Agomab Therapeutics Nv | 3 | 5 | $399,970 | 2026-10-05 | 2026-10-21 | 2026-10-22 |
 | 9 | [DX](http://openinsider.com/DX) | Dynex Capital Inc | 3 | 3 | $267,230 | 2026-10-20 | 2026-10-20 | 2026-10-21 |
@@ -120,7 +120,7 @@ Fire, Marine & Casualty Insurance. 5 insiders, $248,878 total.
 
 ## 6. BPRE, Bluerock Private Real Estate Fund
 
-Closed-End Funds. 3 insiders, $28,722,173 total.
+Closed-End Funds. 3 insiders, $30,848,264 total.
 
 | Insider | Title | Trade date | Price | Shares | Value |
 |---|---|---|---:|---:|---:|
@@ -135,6 +135,7 @@ Closed-End Funds. 3 insiders, $28,722,173 total.
 | Kamfar Ramin | Dir | 2026-10-15 | $12.47 | 194,228 | $2,422,335 |
 | Kamfar Ramin | Dir | 2026-10-19 | $12.32 | 271,555 | $3,345,006 |
 | Ruddy Jordan B. | Pres | 2026-10-21 | $12.25 | 2,040 | $24,987 |
+| Kamfar Ramin | Dir | 2026-10-22 | $12.48 | 170,320 | $2,126,091 |
 
 ## 7. NXG, Nxg Nextgen Infrastructure Income Fund
 
