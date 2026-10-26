@@ -1,0 +1,101 @@
+ticker,company,industry,insiders,trade_type,filing_time,trade_date,value
+NXG,Nxg Nextgen Infrastructure Income Fund,Closed-End Funds,3,P - Purchase,2026-10-23 17:13:39,2026-10-19,525575.0
+RAPP,"Rapport Therapeutics, Inc.",Pharmaceutical Preparations,6,P - Purchase,2026-10-23 16:01:03,2026-10-23,1664825.0
+CRAFX,Cascade Real Assets Fund,Closed-End Funds,3,P - Purchase,2026-10-23 12:04:57,2026-10-21,5731249.0
+AGMB,Agomab Therapeutics Nv,"Biological Products, (No Diagnostic Substances)",3,P - Purchase,2026-10-22 08:14:43,2026-10-05,399970.0
+BPRE,Bluerock Private Real Estate Fund,Closed-End Funds,3,P - Purchase,2026-10-21 18:21:07,2026-10-19,32812834.0
+DX,Dynex Capital Inc,Real Estate Investment Trusts,3,P - Purchase,2026-10-21 16:07:32,2026-10-20,284480.0
+FUL,Fuller H B Co,Adhesives & Sealants,8,P - Purchase,2026-10-19 09:38:01,2026-10-16,1123318.0
+PAM,Pampa Energy Inc.,Electric Services,3,P - Purchase,2026-10-16 15:19:04,2026-09-25,51509548.0
+BORR,Borr Drilling Ltd,Drilling Oil & Gas Wells,3,P - Purchase,2026-10-16 07:30:18,2026-10-15,57144458.0
+INBX,"Inhibrx Biosciences, Inc.","Biological Products, (No Diagnostic Substances)",2,P - Purchase,2026-10-14 18:58:14,2026-10-14,4779777.0
+ONMD,Onemednet Corp,Commercial Physical & Biological Research,2,P - Purchase,2026-10-13 20:32:49,2026-10-07,999999.0
+RTSN,"Retension Pharmaceuticals, Inc.",Pharmaceutical Preparations,2,P - Purchase,2026-10-13 18:12:28,2026-10-13,369600.0
+GME,Gamestop Corp.,Computer & Computer Software Stores,5,P - Purchase,2026-10-13 16:06:36,2026-09-08,99078947.0
+SWZ,Total Return Securities Fund,Closed-End Funds,2,P - Purchase,2026-10-13 16:05:25,2026-10-08,144451.0
+IIPR,Innovative Industrial Properties Inc,Real Estate,2,P - Purchase,2026-10-13 10:30:46,2026-08-31,1029938.0
+PSUS,"Pershing Square Usa, Ltd.",Closed-End Funds,2,P - Purchase,2026-10-06 17:59:00,2026-10-02,9858899.0
+ACCV,Accelevation Holdings Corp.,Electrical Industrial Apparatus,5,P - Purchase,2026-10-05 21:45:03,2026-10-01,4098600.0
+SKYH,Sky Harbour Group Corp,Real Estate,2,P - Purchase,2026-10-05 09:08:46,2026-10-02,89863.0
+PORT.,Southport Acquisition Corp. II,Blank Checks,2,P - Purchase,2026-10-02 16:30:49,2026-09-30,10000000.0
+HELP,Helus Pharma Inc.,Pharmaceutical Preparations,4,P - Purchase,2026-10-01 20:13:59,2026-09-29,6327730.0
+PRHI,"Presurance Holdings, Inc.","Fire, Marine & Casualty Insurance",5,P - Purchase,2026-10-01 17:50:10,2026-09-30,248878.0
+DKS,"Dick'S Sporting Goods, Inc.",Miscellaneous Shopping Goods Stores,7,P - Purchase,2026-10-01 16:58:22,2026-09-30,5588663.0
+XENE,Xenon Pharmaceuticals Inc.,Pharmaceutical Preparations,2,P - Purchase,2026-10-01 09:20:20,2026-09-30,1681140.0
+CLPR,Clipper Realty Inc.,Real Estate Investment Trusts,2,P - Purchase,2026-09-30 17:51:16,2026-09-08,1433743.0
+BBD,Bank Bradesco,State Commercial Banks,22,P - Purchase,2026-09-30 16:42:04,2026-09-28,27962071.0
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,Closed-End Funds,2,P - Purchase,2026-09-29 11:22:58,2026-09-28,293774.0
+INR,"Infinity Natural Resources, Inc.",Crude Petroleum & Natural Gas,2,P - Purchase,2026-09-28 18:01:09,2026-09-24,663770.0
+PLAY,"Dave & Buster'S Entertainment, Inc.",Eating Places,2,P - Purchase,2026-09-28 16:57:53,2026-09-28,188600.0
+SKIL,Skillsoft Corp.,Prepackaged Software,2,P - Purchase,2026-09-25 16:19:57,2026-09-15,378651.0
+HHH,Howard Hughes Holdings Inc.,Real Estate Investment Trusts,2,P - Purchase,2026-09-24 19:15:35,2026-09-23,1667428.0
+DY,Dycom Industries Inc,"Water, Sewer, Pipeline, Comm & Power Line Construction",3,P - Purchase,2026-09-24 17:26:27,2026-09-23,551307.0
+OXM,Oxford Industries Inc,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",2,P - Purchase,2026-09-24 16:24:26,2026-09-24,203373.0
+GAM,General American Investors Co Inc,Closed-End Funds,5,P - Purchase,2026-09-24 10:21:48,2026-09-23,672290.0
+ALP,Alpha Compute Corp,Finance Services,2,P - Purchase,2026-09-23 16:37:06,2026-09-22,238486.0
+DUOT,"Duos Technologies Group, Inc.",Prepackaged Software,2,P - Purchase,2026-09-23 16:30:09,2026-09-22,133844.0
+ADC,Agree Realty Corp,Real Estate Investment Trusts,3,P - Purchase,2026-09-23 07:00:20,2026-09-21,4142871.0
+RWAY,Runway Growth Finance Corp.,Closed-End Funds,3,P - Purchase,2026-09-22 20:10:27,2026-09-21,169183.0
+BCBP,Bcb Bancorp Inc,"Savings Institution, Federally Chartered",2,P - Purchase,2026-09-22 14:23:16,2026-09-18,1317500.0
+RWT,Redwood Trust Inc,Real Estate Investment Trusts,4,P - Purchase,2026-09-18 20:27:05,2026-09-15,1312178.0
+TH,Target Hospitality Corp.,"Hotels, Rooming Houses, Camps & Other Lodging Places",2,P - Purchase,2026-09-18 16:30:20,2026-09-18,375158.0
+BWMX,"Betterware De Mexico, S.A.P.I. De C.V",Catalog & Mail-Order Houses,2,P - Purchase,2026-09-17 16:54:51,2026-09-16,986709.0
+SBLK,Star Bulk Carriers Corp.,Deep Sea Foreign Transportation of Freight,8,P - Purchase,2026-09-17 11:02:04,2026-09-15,6920496.0
+AAON,"Aaon, Inc.",Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,2,P - Purchase,2026-09-16 16:38:14,2026-09-15,109584.0
+CAVA,"Cava Group, Inc.",Eating Places,2,P - Purchase,2026-09-16 16:04:05,2026-09-15,482340.0
+MCFT,"Mastercraft Boat Holdings, Inc.",Ship & Boat Building & Repairing,2,P - Purchase,2026-09-16 16:03:52,2026-09-15,123761.0
+ASYS,Amtech Systems Inc,Special Industry Machinery,2,P - Purchase,2026-09-16 12:19:03,2026-08-24,77726.0
+CELH,"Celsius Holdings, Inc.",Bottled & Canned Soft Drinks & Carbonated Waters,3,P - Purchase,2026-09-16 09:00:48,2026-09-15,1830043.0
+AVBC,"Avidia Bancorp, Inc.","Savings Institutions, Not Federally Chartered",5,P - Purchase,2026-09-16 08:47:32,2026-09-14,586569.0
+NTHI,"Neonc Technologies Holdings, Inc.",Pharmaceutical Preparations,2,P - Purchase,2026-09-15 20:47:37,2026-09-14,314795.0
+ANGX,"Angel Studios, Inc.",Motion Picture & Video Tape Production,3,P - Purchase,2026-09-14 16:14:32,2026-09-11,5857056.0
+GRNT,"Granite Ridge Resources, Inc.",Crude Petroleum & Natural Gas,3,P - Purchase,2026-09-14 11:43:43,2026-09-11,105800.0
+PNFP,"Pinnacle Financial Partners, Inc.",National Commercial Banks,2,P - Purchase,2026-09-11 16:09:22,2026-09-01,299341.0
+KMT,Kennametal Inc,"Machine Tools, Metal Cutting Types",2,P - Purchase,2026-09-11 09:24:07,2026-09-10,354750.0
+RLMD,"Relmada Therapeutics, Inc.",Pharmaceutical Preparations,2,P - Purchase,2026-09-11 07:30:03,2026-09-09,1671990.0
+PRTS,"Carparts.Com, Inc.",Auto & Home Supply Stores,3,P - Purchase,2026-09-10 20:01:53,2026-09-10,2000649.0
+UBER,"Uber Technologies, Inc",Business Services,2,P - Purchase,2026-09-10 12:40:37,2026-09-04,15314016.0
+LUCK,Lucky Strike Entertainment Corp,Amusement & Recreation Services,3,P - Purchase,2026-09-09 16:16:20,2026-09-09,869701.0
+ENOV,Enovis Corp,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",2,P - Purchase,2026-09-08 21:00:03,2026-09-04,449599.0
+SCOR,"Comscore, Inc.",Business Services,3,P - Purchase,2026-09-08 16:09:18,2026-09-04,348468.0
+TISI,Team Inc,Miscellaneous Repair Services,3,P - Purchase,2026-09-08 14:39:20,2026-09-03,610080.0
+SMID,Smith Midland Corp,"Concrete Products, Except Block & Brick",2,P - Purchase,2026-09-04 13:04:00,2026-09-01,108040.0
+AMRZ,Amrize Ltd,"Cement, Hydraulic",10,P - Purchase,2026-09-03 12:40:15,2026-08-11,2638163.0
+UAMY,United States Antimony Corp,Primary Smelting & Refining of Nonferrous Metals,3,P - Purchase,2026-09-02 14:28:53,2026-09-01,291636.0
+QNRX,"Quoin Pharmaceuticals, Ltd.",Pharmaceutical Preparations,4,P - Purchase,2026-09-01 21:40:32,2026-08-31,279965.0
+AIIR,Air Global Plc,Tobacco Products,2,P - Purchase,2026-09-01 16:05:07,2026-08-27,79607.0
+CIA,"Citizens, Inc.",Life Insurance,2,P - Purchase,2026-09-01 14:05:18,2026-08-31,281425.0
+GO,Grocery Outlet Holding Corp.,Grocery Stores,2,P - Purchase,2026-08-31 21:23:06,2026-08-20,262700.0
+HWKN,Hawkins Inc,Chemicals & Allied Products,2,P - Purchase,2026-08-31 16:32:27,2026-08-25,261576.0
+SRTS,"Sensus Healthcare, Inc.",Surgical & Medical Instruments & Apparatus,2,P - Purchase,2026-08-31 12:35:33,2026-08-28,563538.0
+BLX,"Bladex, Inc.",Commercial Banks,2,P - Purchase,2026-08-31 11:16:14,2026-08-28,178020.0
+MTDR,Matador Resources Co,Crude Petroleum & Natural Gas,2,P - Purchase,2026-08-31 07:35:29,2026-08-27,184899.0
+REFI,"Chicago Atlantic Real Estate Finance, Inc.",Real Estate Investment Trusts,3,P - Purchase,2026-08-28 15:24:41,2026-08-17,1285710.0
+ACDC,Profrac Holding Corp.,Oil & Gas Field Services,3,P - Purchase,2026-08-26 19:12:12,2026-08-10,9753790.0
+NSLR,Neostellar Capital Corp.,Closed-End Funds,2,P - Purchase,2026-08-26 19:09:20,2026-08-26,760984.0
+BSX,Boston Scientific Corp,Surgical & Medical Instruments & Apparatus,4,P - Purchase,2026-08-26 18:46:49,2026-08-25,9486040.0
+NOMD,Nomad Foods Ltd,Food & Kindred Products,2,P - Purchase,2026-08-26 16:23:43,2026-08-19,954231.0
+PRE,Prenetics Global Ltd,Pharmaceutical Preparations,2,P - Purchase,2026-08-26 08:23:50,2026-08-24,999698.0
+TTMI,Ttm Technologies Inc,Printed Circuit Boards,2,P - Purchase,2026-08-25 20:42:01,2026-08-25,1642200.0
+BCML,Baycom Corp,State Commercial Banks,3,P - Purchase,2026-08-25 13:40:17,2026-08-21,461368.0
+BABA,Alibaba Group Holding Ltd,Business Services,2,P - Purchase,2026-08-25 06:01:33,2026-08-25,25691200.0
+ABCL,Abcellera Biologics Inc.,Pharmaceutical Preparations,3,P - Purchase,2026-08-24 17:21:48,2026-08-18,1545679.0
+ACCS,Access Newswire Inc.,Management Consulting Services,2,P - Purchase,2026-08-24 17:14:28,2026-08-14,128662.0
+CMCO,Columbus McKinnon Corp,Construction Machinery & Equip,2,P - Purchase,2026-08-21 16:43:27,2026-08-20,194660.0
+KEEL,Keel Infrastructure Corp.,Finance Services,2,P - Purchase,2026-08-21 16:42:47,2026-08-21,525657.0
+ELAN,Elanco Animal Health Inc,Pharmaceutical Preparations,5,P - Purchase,2026-08-21 16:16:46,2026-08-18,1473069.0
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Semiconductors & Related Devices,2,P - Purchase,2026-08-20 07:41:41,2026-08-18,320903.0
+LIEN,"Chicago Atlantic Bdc, Inc.",Closed-End Funds,3,P - Purchase,2026-08-19 21:56:33,2026-08-17,1025607.0
+LBGJ,Li Bang International Corp Inc.,Refrigeration & Service Industry Machinery,2,P - Purchase,2026-08-19 21:01:21,2026-08-17,299999.0
+NVRI,Enviri Corp,Refuse Systems,2,P - Purchase,2026-08-19 08:11:12,2026-08-18,159462.0
+CDNL,Cardinal Infrastructure Group Inc.,Heavy Construction Non-Bldg Contractors,7,P - Purchase,2026-08-18 17:26:41,2026-08-17,8541274.0
+VRCA,Verrica Pharmaceuticals Inc.,Pharmaceutical Preparations,3,P - Purchase,2026-08-18 17:00:15,2026-08-17,186240.0
+SRI,Stoneridge Inc,Motor Vehicle Parts & Accessories,2,P - Purchase,2026-08-18 12:34:39,2026-08-18,78610.0
+REZI,"Resideo Technologies, Inc.",Hardware,3,P - Purchase,2026-08-18 07:33:44,2026-08-17,848123.0
+DKL,"Delek Logistics Partners, LP",Pipe Lines (No Natural Gas),5,P - Purchase,2026-08-17 20:04:32,2026-08-13,750000.0
+APLM,Apollomics Inc.,Pharmaceutical Preparations,3,P - Purchase,2026-08-17 19:32:04,2026-08-14,8250009.0
+XRN,Chiron Real Estate Inc.,Real Estate Investment Trusts,4,P - Purchase,2026-08-17 17:24:55,2026-08-14,2559504.0
+CHCT,Community Healthcare Trust Inc,Real Estate Investment Trusts,2,P - Purchase,2026-08-17 16:15:12,2026-08-14,272980.0
+CE,Celanese Corp,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",3,P - Purchase,2026-08-17 16:10:57,2026-08-14,230062.0
+APTV,Aptiv Plc,Motor Vehicle Parts & Accessories,4,P - Purchase,2026-08-17 16:02:23,2026-08-13,8254508.0
+MLAB,Mesa Laboratories Inc /Co/,"Industrial Instruments For Measurement, Display, & Control",2,P - Purchase,2026-08-17 11:49:47,2026-08-13,902411.0
