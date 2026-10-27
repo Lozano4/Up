@@ -1,8 +1,8 @@
-# Insider cluster buys, 2026-10-26
+# Insider cluster buys, 2026-10-27
 
-Generated 2026-10-26 12:01 Pacific. Trade dates 2026-09-27 to 2026-10-26. Open-market purchases (code P) only, 2+ different insiders per company.
+Generated 2026-10-27 11:32 Pacific. Trade dates 2026-09-28 to 2026-10-27. Open-market purchases (code P) only, 2+ different insiders per company.
 
-**17 confirmed** out of 100 on OpenInsider's latest cluster buys page.
+**18 confirmed** out of 100 on OpenInsider's latest cluster buys page.
 
 Read-only research. Nothing here is an order or a recommendation.
 
@@ -25,8 +25,9 @@ Read-only research. Nothing here is an order or a recommendation.
 | 13 | [PORT.](http://openinsider.com/PORT.) | Southport Acquisition Corp. II | 2 | 2 | $10,000,000 | 2026-09-30 | 2026-09-30 | 2026-10-02 |
 | 14 | [XENE](http://openinsider.com/XENE) | Xenon Pharmaceuticals Inc. | 2 | 2 | $1,681,140 | 2026-09-30 | 2026-09-30 | 2026-10-01 |
 | 15 | [ONMD](http://openinsider.com/ONMD) | Onemednet Corp | 2 | 2 | $999,999 | 2026-10-07 | 2026-10-09 | 2026-10-13 |
-| 16 | [RTSN](http://openinsider.com/RTSN) | Retension Pharmaceuticals, Inc. | 2 | 2 | $369,600 | 2026-10-13 | 2026-10-13 | 2026-10-13 |
-| 17 | [SWZ](http://openinsider.com/SWZ) | Total Return Securities Fund | 2 | 2 | $40,167 | 2026-09-28 | 2026-10-08 | 2026-10-13 |
+| 16 | [THRM](http://openinsider.com/THRM) | Gentherm Inc | 2 | 2 | $662,600 | 2026-10-23 | 2026-10-23 | 2026-10-26 |
+| 17 | [RTSN](http://openinsider.com/RTSN) | Retension Pharmaceuticals, Inc. | 2 | 2 | $369,600 | 2026-10-13 | 2026-10-13 | 2026-10-13 |
+| 18 | [SWZ](http://openinsider.com/SWZ) | Total Return Securities Fund | 2 | 2 | $40,167 | 2026-09-28 | 2026-10-08 | 2026-10-13 |
 
 ## 1. TSM, Taiwan Semiconductor Manufacturing Co Ltd
 
@@ -231,7 +232,16 @@ Commercial Physical & Biological Research. 2 insiders, $999,999 total.
 | Kosasa Thomas | Dir, 10% | 2026-10-07 | $5.78 | 129,758 | $750,001 |
 | Yu Jeffrey | Chief Medical Officer, 10% | 2026-10-09 | $5.54 | 45,126 | $249,998 |
 
-## 16. RTSN, Retension Pharmaceuticals, Inc.
+## 16. THRM, Gentherm Inc
+
+Motor Vehicle Parts & Accessories. 2 insiders, $662,600 total.
+
+| Insider | Title | Trade date | Price | Shares | Value |
+|---|---|---|---:|---:|---:|
+| Mascarenas Paul Anthony | Dir | 2026-10-23 | $26.63 | 20,000 | $532,600 |
+| Presley William T. | Pres, CEO | 2026-10-23 | $26.00 | 5,000 | $130,000 |
+
+## 17. RTSN, Retension Pharmaceuticals, Inc.
 
 Pharmaceutical Preparations. 2 insiders, $369,600 total.
 
@@ -240,7 +250,7 @@ Pharmaceutical Preparations. 2 insiders, $369,600 total.
 | Berger Franklin M | Dir | 2026-10-13 | $12.00 | 10,000 | $120,000 |
 | Keller Eric L. | CEO | 2026-10-13 | $12.00 | 20,800 | $249,600 |
 
-## 17. SWZ, Total Return Securities Fund
+## 18. SWZ, Total Return Securities Fund
 
 Closed-End Funds. 2 insiders, $40,167 total.
 
@@ -302,7 +312,6 @@ Closed-End Funds. 2 insiders, $40,167 total.
 - [LIEN](http://openinsider.com/LIEN) (Chicago Atlantic Bdc, Inc.): no open-market purchases (code P) in the last 30 days
 - [LUCK](http://openinsider.com/LUCK) (Lucky Strike Entertainment Corp): no open-market purchases (code P) in the last 30 days
 - [MCFT](http://openinsider.com/MCFT) (Mastercraft Boat Holdings, Inc.): no open-market purchases (code P) in the last 30 days
-- [MLAB](http://openinsider.com/MLAB) (Mesa Laboratories Inc /Co/): no open-market purchases (code P) in the last 30 days
 - [MTDR](http://openinsider.com/MTDR) (Matador Resources Co): no open-market purchases (code P) in the last 30 days
 - [NOMD](http://openinsider.com/NOMD) (Nomad Foods Ltd): no open-market purchases (code P) in the last 30 days
 - [NSLR](http://openinsider.com/NSLR) (Neostellar Capital Corp.): no open-market purchases (code P) in the last 30 days
@@ -328,7 +337,7 @@ Closed-End Funds. 2 insiders, $40,167 total.
 - [SRI](http://openinsider.com/SRI) (Stoneridge Inc): no open-market purchases (code P) in the last 30 days
 - [SRTS](http://openinsider.com/SRTS) (Sensus Healthcare, Inc.): no open-market purchases (code P) in the last 30 days
 - [TH](http://openinsider.com/TH) (Target Hospitality Corp.): no open-market purchases (code P) in the last 30 days
-- [TISI](http://openinsider.com/TISI) (Team Inc): no open-market purchases (code P) in the last 30 days
+- [TISI](http://openinsider.com/TISI) (Team Inc): only 1 insider bought in the last 30 days
 - [TTMI](http://openinsider.com/TTMI) (Ttm Technologies Inc): no open-market purchases (code P) in the last 30 days
 - [UAMY](http://openinsider.com/UAMY) (United States Antimony Corp): no open-market purchases (code P) in the last 30 days
 - [UBER](http://openinsider.com/UBER) (Uber Technologies, Inc): no open-market purchases (code P) in the last 30 days
