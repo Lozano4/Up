@@ -1,8 +1,8 @@
-# Insider cluster buys, 2026-10-28
+# Insider cluster buys, 2026-10-29
 
-Generated 2026-10-28 11:39 Pacific. Trade dates 2026-09-29 to 2026-10-28. Open-market purchases (code P) only, 2+ different insiders per company.
+Generated 2026-10-29 11:47 Pacific. Trade dates 2026-09-30 to 2026-10-29. Open-market purchases (code P) only, 2+ different insiders per company.
 
-**19 confirmed** out of 100 on OpenInsider's latest cluster buys page.
+**20 confirmed** out of 100 on OpenInsider's latest cluster buys page.
 
 Read-only research. Nothing here is an order or a recommendation.
 
@@ -13,22 +13,23 @@ Read-only research. Nothing here is an order or a recommendation.
 | 1 | [TSM](http://openinsider.com/TSM) | Taiwan Semiconductor Manufacturing Co Ltd | 30 | 30 | $121,467 | 2026-10-07 | 2026-10-07 | 2026-10-08 |
 | 2 | [RAPP](http://openinsider.com/RAPP) | Rapport Therapeutics, Inc. | 6 | 6 | $1,664,825 | 2026-10-21 | 2026-10-23 | 2026-10-23 |
 | 3 | [ACCV](http://openinsider.com/ACCV) | Accelevation Holdings Corp. | 5 | 5 | $4,098,600 | 2026-10-01 | 2026-10-01 | 2026-10-05 |
-| 4 | [FUL](http://openinsider.com/FUL) | Fuller H B Co | 5 | 5 | $747,233 | 2026-09-29 | 2026-10-16 | 2026-10-19 |
-| 5 | [STC](http://openinsider.com/STC) | Stewart Information Services Corp | 5 | 5 | $460,970 | 2026-10-23 | 2026-10-26 | 2026-10-27 |
-| 6 | [PRHI](http://openinsider.com/PRHI) | Presurance Holdings, Inc. | 5 | 5 | $248,878 | 2026-09-30 | 2026-09-30 | 2026-10-01 |
-| 7 | [BPRE](http://openinsider.com/BPRE) | Bluerock Private Real Estate Fund | 3 | 10 | $25,437,057 | 2026-10-01 | 2026-10-22 | 2026-10-26 |
-| 8 | [NPB](http://openinsider.com/NPB) | Northpointe Bancshares Inc | 3 | 3 | $1,771,952 | 2026-10-23 | 2026-10-23 | 2026-10-27 |
+| 4 | [STC](http://openinsider.com/STC) | Stewart Information Services Corp | 5 | 5 | $460,970 | 2026-10-23 | 2026-10-26 | 2026-10-27 |
+| 5 | [PRHI](http://openinsider.com/PRHI) | Presurance Holdings, Inc. | 5 | 5 | $248,878 | 2026-09-30 | 2026-09-30 | 2026-10-01 |
+| 6 | [BPRE](http://openinsider.com/BPRE) | Bluerock Private Real Estate Fund | 3 | 11 | $27,666,782 | 2026-10-01 | 2026-10-26 | 2026-10-28 |
+| 7 | [NPB](http://openinsider.com/NPB) | Northpointe Bancshares Inc | 3 | 3 | $1,771,952 | 2026-10-23 | 2026-10-23 | 2026-10-27 |
+| 8 | [FUL](http://openinsider.com/FUL) | Fuller H B Co | 3 | 3 | $547,998 | 2026-09-30 | 2026-10-16 | 2026-10-19 |
 | 9 | [NXG](http://openinsider.com/NXG) | Nxg Nextgen Infrastructure Income Fund | 3 | 3 | $525,575 | 2026-10-19 | 2026-10-23 | 2026-10-23 |
 | 10 | [AGMB](http://openinsider.com/AGMB) | Agomab Therapeutics Nv | 3 | 5 | $399,970 | 2026-10-05 | 2026-10-21 | 2026-10-22 |
 | 11 | [DX](http://openinsider.com/DX) | Dynex Capital Inc | 3 | 3 | $267,230 | 2026-10-20 | 2026-10-20 | 2026-10-21 |
-| 12 | [GME](http://openinsider.com/GME) | Gamestop Corp. | 2 | 4 | $50,677,334 | 2026-09-29 | 2026-10-13 | 2026-10-13 |
-| 13 | [BORR](http://openinsider.com/BORR) | Borr Drilling Ltd | 2 | 8 | $44,511,350 | 2026-10-05 | 2026-10-15 | 2026-10-16 |
+| 12 | [BORR](http://openinsider.com/BORR) | Borr Drilling Ltd | 2 | 8 | $44,511,350 | 2026-10-05 | 2026-10-15 | 2026-10-16 |
+| 13 | [GME](http://openinsider.com/GME) | Gamestop Corp. | 2 | 3 | $40,113,538 | 2026-10-01 | 2026-10-13 | 2026-10-13 |
 | 14 | [PORT.](http://openinsider.com/PORT.) | Southport Acquisition Corp. II | 2 | 2 | $10,000,000 | 2026-09-30 | 2026-09-30 | 2026-10-02 |
 | 15 | [ACN](http://openinsider.com/ACN) | Accenture Plc | 2 | 2 | $3,200,889 | 2026-10-26 | 2026-10-26 | 2026-10-28 |
 | 16 | [XENE](http://openinsider.com/XENE) | Xenon Pharmaceuticals Inc. | 2 | 2 | $1,681,140 | 2026-09-30 | 2026-09-30 | 2026-10-01 |
-| 17 | [ONMD](http://openinsider.com/ONMD) | Onemednet Corp | 2 | 2 | $999,999 | 2026-10-07 | 2026-10-09 | 2026-10-13 |
-| 18 | [THRM](http://openinsider.com/THRM) | Gentherm Inc | 2 | 2 | $662,600 | 2026-10-23 | 2026-10-23 | 2026-10-26 |
-| 19 | [RTSN](http://openinsider.com/RTSN) | Retension Pharmaceuticals, Inc. | 2 | 2 | $369,600 | 2026-10-13 | 2026-10-13 | 2026-10-13 |
+| 17 | [TTMI](http://openinsider.com/TTMI) | Ttm Technologies Inc | 2 | 2 | $1,342,811 | 2026-10-28 | 2026-10-28 | 2026-10-28 |
+| 18 | [ONMD](http://openinsider.com/ONMD) | Onemednet Corp | 2 | 2 | $999,999 | 2026-10-07 | 2026-10-09 | 2026-10-13 |
+| 19 | [THRM](http://openinsider.com/THRM) | Gentherm Inc | 2 | 2 | $662,600 | 2026-10-23 | 2026-10-23 | 2026-10-26 |
+| 20 | [RTSN](http://openinsider.com/RTSN) | Retension Pharmaceuticals, Inc. | 2 | 2 | $369,600 | 2026-10-13 | 2026-10-13 | 2026-10-13 |
 
 ## 1. TSM, Taiwan Semiconductor Manufacturing Co Ltd
 
@@ -92,19 +93,7 @@ Electrical Industrial Apparatus. 5 insiders, $4,098,600 total.
 | Jones Ginger M | Dir | 2026-10-01 | $18.00 | 10,000 | $180,000 |
 | Rubiera Michael | CEO | 2026-10-01 | $18.00 | 203,200 | $3,657,600 |
 
-## 4. FUL, Fuller H B Co
-
-Adhesives & Sealants. 5 insiders, $747,233 total.
-
-| Insider | Title | Trade date | Price | Shares | Value |
-|---|---|---|---:|---:|---:|
-| Happe Michael J | Dir | 2026-09-29 | $49.63 | 2,000 | $99,250 |
-| Lauber Charles T | Dir | 2026-09-29 | $49.87 | 2,005 | $99,985 |
-| Martin Celine Christine | Dir | 2026-09-30 | $49.50 | 465 | $22,998 |
-| Bailly R Jeffrey | Dir | 2026-10-07 | $50.00 | 10,000 | $500,000 |
-| Malik Muhammad Shahbaz | SVP, BAS | 2026-10-16 | $52.23 | 479 | $25,000 |
-
-## 5. STC, Stewart Information Services Corp
+## 4. STC, Stewart Information Services Corp
 
 Title Insurance. 5 insiders, $460,970 total.
 
@@ -116,7 +105,7 @@ Title Insurance. 5 insiders, $460,970 total.
 | Matz Deborah Jane | Dir | 2026-10-23 | $43.91 | 1,000 | $43,910 |
 | Eppinger Frederick H | CEO | 2026-10-26 | $44.45 | 3,000 | $133,350 |
 
-## 6. PRHI, Presurance Holdings, Inc.
+## 5. PRHI, Presurance Holdings, Inc.
 
 Fire, Marine & Casualty Insurance. 5 insiders, $248,878 total.
 
@@ -128,9 +117,9 @@ Fire, Marine & Casualty Insurance. 5 insiders, $248,878 total.
 | Sarafa Joseph D | Dir | 2026-09-30 | $6.75 | 11,000 | $74,247 |
 | Smith James Grant | Dir | 2026-09-30 | $6.75 | 7,250 | $48,935 |
 
-## 7. BPRE, Bluerock Private Real Estate Fund
+## 6. BPRE, Bluerock Private Real Estate Fund
 
-Closed-End Funds. 3 insiders, $25,437,057 total.
+Closed-End Funds. 3 insiders, $27,666,782 total.
 
 | Insider | Title | Trade date | Price | Shares | Value |
 |---|---|---|---:|---:|---:|
@@ -144,8 +133,9 @@ Closed-End Funds. 3 insiders, $25,437,057 total.
 | Kamfar Ramin | Dir | 2026-10-19 | $12.32 | 271,555 | $3,345,006 |
 | Ruddy Jordan B. | Pres | 2026-10-21 | $12.25 | 2,040 | $24,987 |
 | Kamfar Ramin | Dir | 2026-10-22 | $12.48 | 170,320 | $2,126,091 |
+| Kamfar Ramin | Dir | 2026-10-26 | $12.48 | 178,677 | $2,229,725 |
 
-## 8. NPB, Northpointe Bancshares Inc
+## 7. NPB, Northpointe Bancshares Inc
 
 State Commercial Banks. 3 insiders, $1,771,952 total.
 
@@ -154,6 +144,16 @@ State Commercial Banks. 3 insiders, $1,771,952 total.
 | Boer Carrie L | Dir | 2026-10-23 | $15.40 | 12,000 | $184,762 |
 | Long Joseph B | COO | 2026-10-23 | $15.37 | 3,240 | $49,800 |
 | Williams Charles Alan | COB, CEO | 2026-10-23 | $15.37 | 100,000 | $1,537,390 |
+
+## 8. FUL, Fuller H B Co
+
+Adhesives & Sealants. 3 insiders, $547,998 total.
+
+| Insider | Title | Trade date | Price | Shares | Value |
+|---|---|---|---:|---:|---:|
+| Martin Celine Christine | Dir | 2026-09-30 | $49.50 | 465 | $22,998 |
+| Bailly R Jeffrey | Dir | 2026-10-07 | $50.00 | 10,000 | $500,000 |
+| Malik Muhammad Shahbaz | SVP, BAS | 2026-10-16 | $52.23 | 479 | $25,000 |
 
 ## 9. NXG, Nxg Nextgen Infrastructure Income Fund
 
@@ -187,18 +187,7 @@ Real Estate Investment Trusts. 3 insiders, $267,230 total.
 | Popenoe Smriti Laxman | Co-CEO, Pres | 2026-10-20 | $13.05 | 12,000 | $156,560 |
 | Sartori Michael Andrew | CFO | 2026-10-20 | $10.70 | 1,000 | $10,700 |
 
-## 12. GME, Gamestop Corp.
-
-Computer & Computer Software Stores. 2 insiders, $50,677,334 total.
-
-| Insider | Title | Trade date | Price | Shares | Value |
-|---|---|---|---:|---:|---:|
-| Cohen Ryan | Pres, CEO, COB | 2026-09-29 | $23.48 | 450,000 | $10,563,796 |
-| Turner Nat | Dir | 2026-10-01 | $24.33 | 10,462 | $254,540 |
-| Cohen Ryan | Pres, CEO, COB | 2026-10-02 | $24.41 | 700,000 | $17,084,270 |
-| Cohen Ryan | Pres, CEO, COB | 2026-10-13 | $26.98 | 844,130 | $22,774,728 |
-
-## 13. BORR, Borr Drilling Ltd
+## 12. BORR, Borr Drilling Ltd
 
 Drilling Oil & Gas Wells. 2 insiders, $44,511,350 total.
 
@@ -212,6 +201,16 @@ Drilling Oil & Gas Wells. 2 insiders, $44,511,350 total.
 | Snowling Harvey Edward | COO | 2026-10-14 | $4.91 | 300,000 | $1,473,000 |
 | Troim Tor Olav | Dir | 2026-10-14 | $4.72 | 750,000 | $3,542,550 |
 | Troim Tor Olav | Dir | 2026-10-15 | $4.60 | 500,000 | $2,299,150 |
+
+## 13. GME, Gamestop Corp.
+
+Computer & Computer Software Stores. 2 insiders, $40,113,538 total.
+
+| Insider | Title | Trade date | Price | Shares | Value |
+|---|---|---|---:|---:|---:|
+| Turner Nat | Dir | 2026-10-01 | $24.33 | 10,462 | $254,540 |
+| Cohen Ryan | Pres, CEO, COB | 2026-10-02 | $24.41 | 700,000 | $17,084,270 |
+| Cohen Ryan | Pres, CEO, COB | 2026-10-13 | $26.98 | 844,130 | $22,774,728 |
 
 ## 14. PORT., Southport Acquisition Corp. II
 
@@ -240,7 +239,16 @@ Pharmaceutical Preparations. 2 insiders, $1,681,140 total.
 | Kelly Thomas Patrick | CFO | 2026-09-30 | $37.32 | 15,000 | $559,740 |
 | Mortimer Ian | Pres, CEO | 2026-09-30 | $37.38 | 30,000 | $1,121,400 |
 
-## 17. ONMD, Onemednet Corp
+## 17. TTMI, Ttm Technologies Inc
+
+Printed Circuit Boards. 2 insiders, $1,342,811 total.
+
+| Insider | Title | Trade date | Price | Shares | Value |
+|---|---|---|---:|---:|---:|
+| Ali Wajid | Dir | 2026-10-28 | $90.25 | 10,000 | $902,461 |
+| Roks Edwin | Pres, CEO | 2026-10-28 | $88.07 | 5,000 | $440,350 |
+
+## 18. ONMD, Onemednet Corp
 
 Commercial Physical & Biological Research. 2 insiders, $999,999 total.
 
@@ -249,7 +257,7 @@ Commercial Physical & Biological Research. 2 insiders, $999,999 total.
 | Kosasa Thomas | Dir, 10% | 2026-10-07 | $5.78 | 129,758 | $750,001 |
 | Yu Jeffrey | Chief Medical Officer, 10% | 2026-10-09 | $5.54 | 45,126 | $249,998 |
 
-## 18. THRM, Gentherm Inc
+## 19. THRM, Gentherm Inc
 
 Motor Vehicle Parts & Accessories. 2 insiders, $662,600 total.
 
@@ -258,7 +266,7 @@ Motor Vehicle Parts & Accessories. 2 insiders, $662,600 total.
 | Mascarenas Paul Anthony | Dir | 2026-10-23 | $26.63 | 20,000 | $532,600 |
 | Presley William T. | Pres, CEO | 2026-10-23 | $26.00 | 5,000 | $130,000 |
 
-## 19. RTSN, Retension Pharmaceuticals, Inc.
+## 20. RTSN, Retension Pharmaceuticals, Inc.
 
 Pharmaceutical Preparations. 2 insiders, $369,600 total.
 
@@ -306,7 +314,7 @@ Pharmaceutical Preparations. 2 insiders, $369,600 total.
 - [GAM](http://openinsider.com/GAM) (General American Investors Co Inc): no open-market purchases (code P) in the last 30 days
 - [GO](http://openinsider.com/GO) (Grocery Outlet Holding Corp.): no open-market purchases (code P) in the last 30 days
 - [GRNT](http://openinsider.com/GRNT) (Granite Ridge Resources, Inc.): no open-market purchases (code P) in the last 30 days
-- [HELP](http://openinsider.com/HELP) (Helus Pharma Inc.): only 1 insider bought in the last 30 days
+- [HELP](http://openinsider.com/HELP) (Helus Pharma Inc.): no open-market purchases (code P) in the last 30 days
 - [HHH](http://openinsider.com/HHH) (Howard Hughes Holdings Inc.): no open-market purchases (code P) in the last 30 days
 - [HWKN](http://openinsider.com/HWKN) (Hawkins Inc): no open-market purchases (code P) in the last 30 days
 - [IIPR](http://openinsider.com/IIPR) (Innovative Industrial Properties Inc): only 1 insider bought in the last 30 days
@@ -346,7 +354,6 @@ Pharmaceutical Preparations. 2 insiders, $369,600 total.
 - [SWZ](http://openinsider.com/SWZ) (Total Return Securities Fund): only 1 insider bought in the last 30 days
 - [TH](http://openinsider.com/TH) (Target Hospitality Corp.): no open-market purchases (code P) in the last 30 days
 - [TISI](http://openinsider.com/TISI) (Team Inc): only 1 insider bought in the last 30 days
-- [TTMI](http://openinsider.com/TTMI) (Ttm Technologies Inc): no open-market purchases (code P) in the last 30 days
 - [UAMY](http://openinsider.com/UAMY) (United States Antimony Corp): no open-market purchases (code P) in the last 30 days
 - [UBER](http://openinsider.com/UBER) (Uber Technologies, Inc): no open-market purchases (code P) in the last 30 days
 - [VRCA](http://openinsider.com/VRCA) (Verrica Pharmaceuticals Inc.): no open-market purchases (code P) in the last 30 days

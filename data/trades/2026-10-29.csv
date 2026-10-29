@@ -1,0 +1,562 @@
+ticker,company,insider,title,trade_type,filing_time,trade_date,price,qty,value,flags
+OVLY,Oak Valley Bancorp,Leonard Daniel J,Dir,P - Purchase,2026-10-29 11:49:16,2026-10-28,34.37,125,4296.0,
+SHBI,Shore Bancshares Inc,Lamon John,Dir,P - Purchase,2026-10-29 11:24:55,2026-10-27,22.94,338,7754.0,D
+BFC,Bank First Corp,Sprang Todd A.,Dir,P - Purchase,2026-10-29 09:51:59,2026-10-28,148.37,400,59348.0,
+TFC,Truist Financial Corp,Lyons Michael P.,"Pres, CEO",P - Purchase,2026-10-29 09:40:22,2026-10-28,48.36,25000,1209050.0,D
+ACTU,"Actuate Therapeutics, Inc.",Schmitt Daniel M,"Pres, CEO, Dir",P - Purchase,2026-10-29 09:35:58,2026-10-28,0.36,140844,50000.0,D
+BBT,Beacon Financial Corp,Callahan Mary Anne,Dir,P - Purchase,2026-10-29 09:08:38,2026-10-28,30.21,3200,96672.0,
+NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,2026-10-29 09:06:59,2026-10-27,163.57,353,57740.0,M
+API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,2026-10-29 08:16:03,2026-10-27,4.47,12549,56081.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-29 08:00:30,2026-10-28,0.97,3500,3400.0,
+TTMI,Ttm Technologies Inc,Roks Edwin,"Pres, CEO",P - Purchase,2026-10-28 20:54:28,2026-10-28,88.07,5000,440350.0,
+TTMI,Ttm Technologies Inc,Ali Wajid,Dir,P - Purchase,2026-10-28 20:52:32,2026-10-28,90.25,10000,902461.0,
+LONA,"Leonabio, Inc.",Portman David J.,10%,P - Purchase,2026-10-28 20:43:08,2026-10-26,0.0,3149470,3149.0,DE
+NVA,Nova Minerals Corp,Girnun Joshua I.,Dir,P - Purchase,2026-10-28 18:55:04,2026-10-26,2.95,6780,20001.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-28 17:46:42,2026-10-26,12.48,178677,2229725.0,M
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-28 17:43:02,2026-10-27,5.63,13695,77103.0,
+GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,2026-10-28 17:39:51,2026-10-26,39.27,100000,3927258.0,M
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-28 17:37:41,2026-10-27,9.99,300,2997.0,
+HXL,Hexcel Corp /De/,Keating Neal J.,Dir,P - Purchase,2026-10-28 17:30:03,2026-10-26,80.67,3000,242010.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-28 17:28:03,2026-10-27,11.63,400,4652.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-28 17:16:32,2026-10-27,10.22,3648,37283.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-28 17:11:46,2026-10-26,34.95,182826,6390299.0,
+CBKM,Consumers Bancorp Inc /Oh/,Williams Derek G,"SVP, Retail Operations, Sales",P - Purchase,2026-10-28 16:57:03,2026-10-28,31.71,100,3171.0,
+BBT,Beacon Financial Corp,Polito Karyn,Dir,P - Purchase,2026-10-28 16:44:30,2026-10-26,30.68,1000,30680.0,
+WS,"Worthington Steel, Inc.",Ganem George John III,CEO Americas Kloeckner Metals,P - Purchase,2026-10-28 16:40:28,2026-10-15,39.37,800,31492.0,
+LBRT,Liberty Energy Inc.,Babcock Ken,Dir,P - Purchase,2026-10-28 16:24:40,2026-10-26,15.4,14500,223300.0,
+BBT,Beacon Financial Corp,Rosengren Eric S,Dir,P - Purchase,2026-10-28 16:23:42,2026-10-28,30.24,700,21168.0,
+THM,International Tower Hill Mines Ltd,Wiens David Victor,CEO,P - Purchase,2026-10-28 16:16:22,2026-10-26,1.95,3000,5850.0,
+HBAN,Huntington Bancshares Inc /Md/,Rollins James D III,Dir,P - Purchase,2026-10-28 16:02:07,2026-10-26,18.12,14000,253720.0,
+HYMC,Hycroft Mining Holding Corp,Rhodes Blake,Dir,P - Purchase,2026-10-28 15:56:49,2026-10-28,16.69,3000,50075.0,
+RCT,Redcloud Holdings Plc,Senn Nikolaus Beat,"Dir, 10%",P - Purchase,2026-10-28 15:52:15,2026-10-28,0.25,1700000,425000.0,
+XBIT,Xbiotech Inc.,Simard John,"Dir, 10%",P - Purchase,2026-10-28 14:37:00,2026-10-26,1.93,368524,711251.0,
+FLG,"Flagstar Bank, National Association",Frank Alan L,Dir,P - Purchase,2026-10-28 14:00:54,2026-10-27,10.14,10000,101400.0,
+LCNB,Lcnb Corp,Krehbiel Anne E,Dir,P - Purchase,2026-10-28 11:39:52,2026-10-26,19.79,1000,19793.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-28 11:13:22,2026-10-26,10.21,1600,16336.0,
+BBT,Beacon Financial Corp,Fitzgerald Margaret Boles,Dir,P - Purchase,2026-10-28 08:33:34,2026-10-27,30.77,329,10123.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-28 08:00:22,2026-10-27,0.9,5800,5246.0,
+ACN,Accenture Plc,Sweet Julie Spellman,"Chair, CEO",P - Purchase,2026-10-28 06:45:40,2026-10-26,245.99,12200,3001041.0,
+ACN,Accenture Plc,Price Paula A,Dir,P - Purchase,2026-10-28 06:45:35,2026-10-26,249.81,800,199848.0,
+PDI,Pimco Dynamic Income Fund,Morris Sonya,Dir,P - Purchase,2026-10-27 20:42:05,2026-10-23,14.32,5700,81624.0,
+LRN,"Stride, Inc.",Haggart Dylan G.,Dir,P - Purchase,2026-10-27 19:50:49,2026-10-23,78.98,154196,12178122.0,M
+SRRK,Scholar Rock Holding Corp,Akkaraju Srinivas,Dir,P - Purchase,2026-10-27 19:47:37,2026-10-23,41.45,289470,11999922.0,M
+NXTC,"Nextcure, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-27 19:36:18,2026-10-23,4.95,10851,53691.0,M
+LYCA,"Lycia Therapeutics, Inc.","Venrock Healthcare Capital Partners Iii, L.P.",10%,P - Purchase,2026-10-27 18:38:10,2026-10-23,18.41,2045440,37653863.0,DM
+AIOK,Ai Okto Corp.,Panagiotidis Petros Panagiotis,CEO,P - Purchase,2026-10-27 18:30:44,2026-10-23,8.15,130000,1059604.0,
+LEO,"Bny Mellon Strategic Municipals, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-27 17:56:26,2026-10-26,5.76,12583,72478.0,
+DAIO,Data I/O Corp,"Red Oak Partners, LLC",10%,P - Purchase,2026-10-27 17:32:18,2026-10-20,2.68,373133,999996.0,D
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-27 17:26:38,2026-10-26,5.4,20616,111326.0,
+MSM,Msc Industrial Direct Co Inc,Jacobson Mitchell,"Dir, 10%",P - Purchase,2026-10-27 17:21:12,2026-10-23,115.94,250000,28984170.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-27 17:00:36,2026-10-26,10.0,1284,12840.0,
+STC,Stewart Information Services Corp,Matz Deborah Jane,Dir,P - Purchase,2026-10-27 16:35:46,2026-10-23,43.91,1000,43910.0,
+NMCO,Nuveen Municipal Credit Opportunities Fund,Robert Young L,Trustee,P - Purchase,2026-10-27 16:34:07,2026-10-23,8.71,28575,248883.0,
+NUV,Nuveen Municipal Value Fund Inc,Robert Young L,Trustee,P - Purchase,2026-10-27 16:33:07,2026-10-23,8.25,36430,300394.0,
+STC,Stewart Information Services Corp,Eppinger Frederick H,CEO,P - Purchase,2026-10-27 16:33:05,2026-10-26,44.45,3000,133350.0,
+NXP,Nuveen Select Tax Free Income Portfolio,Robert Young L,Trustee,P - Purchase,2026-10-27 16:32:05,2026-10-23,13.15,22848,300433.0,
+CTEV,Claritev Corp,Ares Management LLC,10%,P - Purchase,2026-10-27 16:31:19,2026-10-23,23.69,70834,1678106.0,M
+CTEV,Claritev Corp,Ares Management LLC,10%,P - Purchase,2026-10-27 16:30:25,2026-10-23,23.69,70834,1678106.0,M
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-27 16:30:05,2026-10-23,33.97,595609,20230673.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-27 16:27:24,2026-10-26,11.43,2618,29924.0,
+BHRB,Burke & Herbert Financial Services Corp.,Wilson David,Dir,P - Purchase,2026-10-27 16:25:03,2026-10-27,69.94,104,7274.0,
+NPB,Northpointe Bancshares Inc,Long Joseph B,COO,P - Purchase,2026-10-27 16:11:27,2026-10-23,15.37,3240,49800.0,
+NPB,Northpointe Bancshares Inc,Boer Carrie L,Dir,P - Purchase,2026-10-27 16:10:29,2026-10-23,15.4,12000,184762.0,
+NPB,Northpointe Bancshares Inc,Williams Charles Alan,"COB, CEO",P - Purchase,2026-10-27 16:09:32,2026-10-23,15.37,100000,1537390.0,M
+TIPT,Tiptree Inc.,Barnes Michael Gene,"COB, CEO, 10%",P - Purchase,2026-10-27 16:05:00,2026-10-23,16.24,30930,502303.0,
+CBKM,Consumers Bancorp Inc /Oh/,Lober Ralph J II,"CEO, Pres",P - Purchase,2026-10-27 15:40:13,2026-10-26,31.97,500,15985.0,
+KIO,Kkr Income Opportunities Fund,Takao Justin,"Treasurer, CAO, CFO",P - Purchase,2026-10-27 14:27:09,2026-10-23,9.74,8047,78398.0,M
+INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-27 14:13:35,2026-10-23,1.32,4,5.0,
+PEBO,Peoples Bancorp Inc,Smith Dwight Eric,Dir,P - Purchase,2026-10-27 13:01:03,2026-10-26,38.66,300,11597.0,
+TISI,Team Inc,Caliel Michael J,Dir,P - Purchase,2026-10-27 10:23:01,2026-10-24,0.0,25293,0.0,
+FFIN,First Financial Bankshares Inc,Nickles Robert Clark Jr,Dir,P - Purchase,2026-10-27 09:54:44,2026-10-23,30.12,820,24698.0,
+ASIC,Ategrity Specialty Insurance Co Holdings,Schenk Chris,See Remarks,P - Purchase,2026-10-27 09:24:07,2026-10-26,24.29,1000,24290.0,
+OWLS,Obook Holdings Inc.,Wang Chun Kai,CEO,P - Purchase,2026-10-27 08:02:22,2026-10-26,2.01,11105,22283.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-27 08:00:05,2026-10-26,0.88,3117,2733.0,
+API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,2026-10-27 07:32:26,2026-10-23,4.44,17598,78084.0,M
+PLUR,Pluri Inc.,Manieu Alexandre Weinstein,"Dir, 10%",P - Purchase,2026-10-27 06:06:24,2026-10-23,1.5,833334,1250001.0,D
+RVI,Robinhood Ventures Fund I,Whitney Meredith,Dir,P - Purchase,2026-10-26 21:57:10,2026-10-23,23.49,1000,23490.0,
+RVII,Robinhood Ventures Fund II,Whitney Meredith,Dir,P - Purchase,2026-10-26 21:53:02,2026-10-23,17.75,1500,26625.0,
+PHR,"Phreesia, Inc.",Linetsky David,"Pres, Network Solutions",P - Purchase,2026-10-26 21:52:10,2026-10-22,9.75,70,683.0,
+CTTH,"Ctt Pharmaceutical Holdings, Inc.","Ctt Pharmaceutical Holdings, Inc.",CEO,P - Purchase,2026-10-26 21:05:57,2026-10-26,0.06,5880,335.0,
+GPI,Group 1 Automotive Inc,"Conifer Management, L.L.C.",10%,P - Purchase,2026-10-26 21:00:59,2026-10-22,242.32,100000,24232209.0,M
+OPTU,"Optimum Communications, Inc.",Subin Neil S,10%,P - Purchase,2026-10-26 19:42:58,2026-10-22,0.52,2228007,1163551.0,M
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-26 18:51:59,2026-10-22,35.15,246440,8662933.0,
+STC,Stewart Information Services Corp,Apel Thomas G,Dir,P - Purchase,2026-10-26 18:51:54,2026-10-23,47.74,2000,95470.0,
+STC,Stewart Information Services Corp,Corey William S. Jr.,Dir,P - Purchase,2026-10-26 18:49:54,2026-10-23,46.82,2000,93640.0,
+STC,Stewart Information Services Corp,Bradley C Allen Jr,Dir,P - Purchase,2026-10-26 18:47:00,2026-10-23,47.3,2000,94600.0,
+KRRO,"Korro Bio, Inc.",Lynx1 Capital Management LP,10%,P - Purchase,2026-10-26 18:37:00,2026-10-22,11.09,79809,884752.0,M
+GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2026-10-26 18:06:24,2026-10-22,1.81,87801,158601.0,M
+THRM,Gentherm Inc,Mascarenas Paul Anthony,Dir,P - Purchase,2026-10-26 17:43:38,2026-10-23,26.63,20000,532600.0,
+LEO,"Bny Mellon Strategic Municipals, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-26 17:36:36,2026-10-23,5.68,65000,369200.0,
+THRM,Gentherm Inc,Presley William T.,"Pres, CEO",P - Purchase,2026-10-26 17:34:49,2026-10-23,26.0,5000,130000.0,
+BY,"Byline Bancorp, Inc.",Stewart Pamela C,Dir,P - Purchase,2026-10-26 17:10:51,2026-10-26,38.61,1160,44785.0,
+NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,2026-10-26 17:04:49,2026-10-22,159.01,770,122438.0,M
+DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"CEO, 10%",P - Purchase,2026-10-26 16:59:49,2026-10-26,1.0,4900,4895.0,
+ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,2026-10-26 16:51:54,2026-10-22,8.28,32090,265820.0,M
+BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2026-10-26 16:51:06,2026-10-22,2.39,21640,51619.0,M
+PEBK,Peoples Bancorp of North Carolina Inc,Price Billy L Jr Dr,Dir,P - Purchase,2026-10-26 16:48:36,2026-10-21,42.29,200,8457.0,
+CCBG,Capital City Bank Group Inc,Butler William F,Dir,P - Purchase,2026-10-26 16:43:06,2026-10-26,51.07,392,20019.0,
+CITR,Citrotech Inc.,Huff Craig A,"Dir, 10%",P - Purchase,2026-10-26 16:30:05,2026-10-22,2.5,200000,500000.0,
+TCBX,"Third Coast Bancshares, Inc.",Bobbora William,See Remarks,P - Purchase,2026-10-26 16:30:03,2026-10-26,40.34,1000,40340.0,
+PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,2026-10-26 16:20:30,2026-10-22,8.15,150000,1222045.0,M
+ANIX,Anixa Biosciences Inc,Titterton Lewis H Jr,Dir,P - Purchase,2026-10-26 16:15:09,2026-10-23,2.98,8000,23840.0,
+LXU,"Lsb Industries, Inc.",Ackerman Jonathan Z.,Dir,P - Purchase,2026-10-26 16:15:06,2026-10-15,10.17,1000,10170.0,
+BBT,Beacon Financial Corp,Hollister Thomas J,Dir,P - Purchase,2026-10-26 15:30:40,2026-10-26,30.43,3450,104984.0,
+GROW,U S Global Investors Inc,"Gator Capital Management, LLC",10%,P - Purchase,2026-10-26 14:18:11,2026-10-23,2.58,4532,11692.0,
+GROW,U S Global Investors Inc,Pilecki Derek Steven,Control Person,P - Purchase,2026-10-26 14:09:52,2026-10-23,2.58,4532,11692.0,
+XFLT,Xai Floating Rate & Alternative Income Trust,Spence John Yogi,VP,P - Purchase,2026-10-26 12:14:59,2026-10-23,16.5,1000,16500.0,
+AIM,Aim Immunotech Inc.,Equels Thomas K,"CEO, Pres",P - Purchase,2026-10-26 12:12:12,2026-10-23,0.16,31675,5068.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-26 08:44:12,2026-10-22,12.48,170320,2126091.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-26 08:00:17,2026-10-23,0.85,6000,5083.0,
+BPRE,Bluerock Private Real Estate Fund,Ruddy Jordan B.,Pres,P - Purchase,2026-10-23 21:34:10,2026-10-21,12.25,2040,24987.0,
+NMHI,Nature'S Miracle Holding Inc.,Adair Kathleen Theresa,10%,P - Purchase,2026-10-23 21:24:50,2026-10-06,0.0,11600000,6958.0,M
+PNI,Pimco New York Municipal Income Fund II,Bank of America Corp /de/,10%,P - Purchase,2026-10-23 18:11:49,2026-10-21,6.33,12170,77085.0,
+LCU,Lion Copper Corp.,Alford Tony L,"Dir, 10%",P - Purchase,2026-10-23 17:32:59,2026-10-21,4.18,4000,16700.0,DM
+SAMG,Silvercrest Asset Management Group Inc.,Equinox Partners Investment Management LLC,10%,P - Purchase,2026-10-23 17:25:56,2026-10-15,10.33,34126,352684.0,M
+NXG,Nxg Nextgen Infrastructure Income Fund,Swank Jerry V,See Remarks,P - Purchase,2026-10-23 17:13:39,2026-10-23,43.95,10000,439493.0,
+NXG,Nxg Nextgen Infrastructure Income Fund,Nelson Blake,"CFO, Treasurer",P - Purchase,2026-10-23 16:58:39,2026-10-23,43.98,900,39582.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-23 16:30:03,2026-10-21,35.38,217182,7684334.0,
+CHCO,City Holding Co,Strong-Treister Diane W,Dir,P - Purchase,2026-10-23 16:24:55,2026-10-23,142.13,120,17056.0,
+CHCO,City Holding Co,Reyes Javier A,Dir,P - Purchase,2026-10-23 16:24:49,2026-10-23,142.13,95,13502.0,
+CHCO,City Holding Co,Hoyer James A,Dir,P - Purchase,2026-10-23 16:24:43,2026-10-23,142.13,100,14213.0,
+CHCO,City Holding Co,Fisher Robert D,Dir,P - Purchase,2026-10-23 16:24:36,2026-10-23,142.13,165,23451.0,
+MSM,Msc Industrial Direct Co Inc,Slone Reuben E,Dir,P - Purchase,2026-10-23 16:17:10,2026-10-23,115.77,433,50129.0,
+RENT,"Rent the Runway, Inc.","Story3 Capital Partners, LLC","Dir, 10%",P - Purchase,2026-10-23 16:11:19,2026-10-21,3.55,632922,2246873.0,
+RENT,"Rent the Runway, Inc.",Nexus Capital Management LP,"Dir, 10%",P - Purchase,2026-10-23 16:08:41,2026-10-21,3.55,632922,2246873.0,
+RENT,"Rent the Runway, Inc.",Chs Us Investments LLC,10%,P - Purchase,2026-10-23 16:07:54,2026-10-21,3.55,458245,1626770.0,
+RAPP,"Rapport Therapeutics, Inc.",Sanchez Ramiro,Dir,P - Purchase,2026-10-23 16:01:03,2026-10-23,27.35,3600,98478.0,
+THFF,First Financial Corp /In/,McDonald James O,Dir,P - Purchase,2026-10-23 14:36:23,2026-10-16,73.58,87,6372.0,
+MXF,Mexico Equity & Income Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-23 14:18:23,2026-10-22,20.14,2000,40280.0,
+AIM,Aim Immunotech Inc.,Equels Thomas K,"CEO, Pres",P - Purchase,2026-10-23 12:29:11,2026-10-22,0.16,31250,5094.0,
+CRAFX,Cascade Real Assets Fund,Worley Matthew Eugene,Dir,P - Purchase,2026-10-23 12:04:57,2026-10-21,10.29,41910,431249.0,
+WAST,Waste Energy Corp.,Gallagher Scott,"COB, CEO",P - Purchase,2026-10-23 10:13:42,2026-10-22,0.0,219286,219.0,
+CLF,Cleveland-Cliffs Inc.,Camara Edilson,Dir,P - Purchase,2026-10-23 09:29:22,2026-10-22,13.49,7400,99826.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-23 08:25:19,2026-10-22,0.89,7000,6231.0,
+BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2026-10-23 06:35:51,2026-10-21,3.5,11400,39900.0,M
+API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,2026-10-22 20:56:55,2026-10-19,4.4,38267,168305.0,M
+SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,2026-10-22 18:45:11,2026-10-20,0.72,103875,74838.0,M
+DOLE,Dole Plc,Pale Fire Capital Se,10%,P - Purchase,2026-10-22 18:34:37,2026-10-20,13.19,648356,8554410.0,M
+ANIX,Anixa Biosciences Inc,Kumar Amit,CEO,P - Purchase,2026-10-22 17:44:15,2026-10-22,2.72,8000,21760.0,
+LEO,"Bny Mellon Strategic Municipals, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-22 17:38:16,2026-10-21,5.73,45831,262612.0,
+MXF,Mexico Equity & Income Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-22 17:26:35,2026-10-21,20.42,16035,327435.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-22 17:03:49,2026-10-20,35.01,193357,6769545.0,
+RAPP,"Rapport Therapeutics, Inc.",Silva Paul M,Dir,P - Purchase,2026-10-22 16:57:07,2026-10-22,27.08,3680,99636.0,
+RAPP,"Rapport Therapeutics, Inc.",Young Wendy B.,Dir,P - Purchase,2026-10-22 16:56:54,2026-10-22,26.39,3789,99992.0,
+RAPP,"Rapport Therapeutics, Inc.",Paul Steven M,Dir,P - Purchase,2026-10-22 16:56:38,2026-10-22,27.28,35714,974278.0,
+RAPP,"Rapport Therapeutics, Inc.",Maraganore John,Dir,P - Purchase,2026-10-22 16:56:25,2026-10-22,26.45,9411,248891.0,
+XFLT,Xai Floating Rate & Alternative Income Trust,Spence John Yogi,Vice President,P - Purchase,2026-10-22 16:49:50,2026-10-21,17.07,2000,34140.0,
+VKI,Invesco Advantage Municipal Income Trust II,Bank of America Corp /de/,10%,P - Purchase,2026-10-22 16:34:42,2026-10-20,8.03,105,843.0,
+NMS,Nuveen Minnesota Quality Municipal Income Fund,Bank of America Corp /de/,10%,P - Purchase,2026-10-22 16:30:02,2026-10-20,10.24,100,1024.0,
+NMCO,Nuveen Municipal Credit Opportunities Fund,Bank of America Corp /de/,10%,P - Purchase,2026-10-22 16:22:06,2026-10-20,8.78,111,974.0,
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-22 16:16:34,2026-10-21,5.32,20575,109459.0,
+NBH,Neuberger Municipal Fund Inc.,Bank of America Corp /de/,10%,P - Purchase,2026-10-22 16:14:14,2026-10-20,9.19,92,845.0,
+LEO,"Bny Mellon Strategic Municipals, Inc.",Bank of America Corp /de/,10%,P - Purchase,2026-10-22 16:08:34,2026-10-20,5.68,183,1039.0,
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.",Bank of America Corp /de/,10%,P - Purchase,2026-10-22 15:56:11,2026-10-20,5.29,200,1059.0,
+NMCO,Nuveen Municipal Credit Opportunities Fund,Jones Nathaniel T.,VP,P - Purchase,2026-10-22 15:49:19,2026-10-20,8.25,450,3713.0,D
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-22 15:23:28,2026-10-21,10.44,2462,25703.0,
+LOAN,"Manhattan Bridge Capital, Inc",Ran Assaf,"Pres, CEO, 10%",P - Purchase,2026-10-22 14:50:47,2026-10-22,3.47,10000,34693.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-22 12:54:42,2026-10-21,11.58,2600,30108.0,
+GROW,U S Global Investors Inc,"Gator Capital Management, LLC",10%,P - Purchase,2026-10-22 10:32:35,2026-10-20,2.57,2886,7417.0,
+GROW,U S Global Investors Inc,Pilecki Derek Steven,10%,P - Purchase,2026-10-22 10:29:06,2026-10-20,2.57,2886,7417.0,
+AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,2026-10-22 08:14:43,2026-10-21,8.88,10000,88800.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-22 08:00:12,2026-10-21,0.94,4002,3755.0,
+FBK,Fb Financial Corp,Ingram Orrin H II,Dir,P - Purchase,2026-10-21 19:24:01,2026-10-20,52.88,29081,1537788.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-21 18:21:07,2026-10-19,12.32,271555,3345006.0,M
+GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2026-10-21 18:06:46,2026-10-19,1.88,4256,8001.0,
+RAPP,"Rapport Therapeutics, Inc.",Ignelzi Troy A.,CFO,P - Purchase,2026-10-21 17:46:54,2026-10-21,26.1,5500,143550.0,
+CRF,Cornerstone Total Return Fund Inc,Bradshaw Joshua,"Vice COB, Pres",P - Purchase,2026-10-21 17:00:47,2026-10-20,5.88,20000,117600.0,
+CLM,"Cornerstone Strategic Investment Fund, Inc.",Bradshaw Joshua,"Vice COB, Pres",P - Purchase,2026-10-21 17:00:10,2026-10-20,6.08,16000,97280.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-21 16:52:12,2026-10-19,34.51,162024,5591238.0,
+TENX,"Tenax Therapeutics, Inc.","Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-21 16:49:45,2026-10-19,1.59,922849,1463426.0,M
+PETV,"Petvivo Holdings, Inc.","A.L. Sarroff Fund, LLC",10%,P - Purchase,2026-10-21 16:23:19,2026-10-13,0.71,78855,56127.0,M
+NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,2026-10-21 16:12:43,2026-10-20,166.26,299,49713.0,M
+LEO,"Bny Mellon Strategic Municipals, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-21 16:11:39,2026-10-20,5.72,7724,44181.0,
+VRXA,Veraxa Biotech AG - Post De-Spac,Ziegler Christoph Samuel,Dir,P - Purchase,2026-10-21 16:10:02,2026-10-20,1.09,30000,32700.0,
+DX,Dynex Capital Inc,Boston Byron L,"Co-CEO, COB",P - Purchase,2026-10-21 16:07:32,2026-10-20,10.89,9180,99970.0,
+GXVIX,Global X Venture & Innovation Fund,"Global X Management Company, Inc.",10%,P - Purchase,2026-10-21 16:01:38,2026-10-19,12.85,1945525,25000000.0,
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-21 15:58:55,2026-10-20,5.32,14573,77528.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-21 15:19:48,2026-10-20,10.35,87623,906898.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-21 14:22:26,2026-10-20,11.39,1830,20844.0,
+SKAS,"Saker Aviation Services, Inc.",Eriksen Howard Timothy,10%,P - Purchase,2026-10-21 10:58:58,2026-10-20,5.52,12700,70104.0,
+YORW,York Water Co,Velazquez David M,Dir,P - Purchase,2026-10-21 10:33:49,2026-10-20,31.07,1288,40000.0,
+YORW,York Water Co,Brossman Douglas S,Dir,P - Purchase,2026-10-21 10:23:22,2026-10-20,31.07,32,1000.0,
+MHH,"Mastech Digital, Inc.",Shaw Steven A,10%,P - Purchase,2026-10-21 08:46:27,2026-10-19,6.39,4700,30026.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-21 08:00:10,2026-10-20,0.95,5541,5260.0,
+OWLS,Obook Holdings Inc.,Wang Chun Kai,CEO,P - Purchase,2026-10-21 07:31:12,2026-10-19,4.27,12192,52037.0,
+AASP,Agassi Sports Entertainment Corp.,Agassi Andre K,10%,P - Purchase,2026-10-20 17:57:17,2026-10-16,0.0,500000,0.0,D
+BOLD,"Boundless Bio, Inc.",Tang Kevin,10%,P - Purchase,2026-10-20 17:49:27,2026-10-16,2.34,149474,349593.0,M
+DX,Dynex Capital Inc,Popenoe Smriti Laxman,"Co-CEO, Pres",P - Purchase,2026-10-20 17:49:19,2026-10-20,13.05,12000,156560.0,
+DX,Dynex Capital Inc,Sartori Michael Andrew,CFO,P - Purchase,2026-10-20 17:48:24,2026-10-20,10.7,1000,10700.0,
+BCDA,"Biocardia, Inc.",Altman Peter,"Pres, CEO",P - Purchase,2026-10-20 17:42:03,2026-10-15,0.95,500,475.0,M
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-20 17:41:09,2026-10-16,2.91,7305,21221.0,M
+INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-20 17:31:16,2026-10-16,1.32,1087,1435.0,M
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-20 17:24:35,2026-10-16,34.71,347195,12052562.0,
+LEO,"Bny Mellon Strategic Municipals, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-20 17:09:55,2026-10-16,5.65,338104,1911638.0,M
+AHNRF,Athena Gold Corp,Power John C /Ca/,Secretary,P - Purchase,2026-10-20 16:47:31,2026-10-20,0.12,10000,1150.0,
+NVA,Nova Minerals Corp,Geller Avi,Dir,P - Purchase,2026-10-20 16:32:17,2026-10-16,3.13,1600,5000.0,
+NVA,Nova Minerals Corp,Gerteisen Christopher,CEO,P - Purchase,2026-10-20 16:32:16,2026-10-16,3.26,6737,21933.0,M
+AYI,Acuity Inc. (De),O'Shaughnessy Laura,Dir,P - Purchase,2026-10-20 16:05:44,2026-10-16,302.32,73,22069.0,
+JOF,Japan Smaller Capitalization Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-20 14:15:13,2026-10-16,11.94,46222,551891.0,M
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-20 13:50:28,2026-10-16,5.28,207722,1096500.0,M
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-20 13:40:22,2026-10-16,10.33,30088,310659.0,M
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-20 13:25:31,2026-10-16,11.56,33426,386339.0,M
+GRF,"Eagle Capital Growth Fund, Inc.",Sims David C,"CFO, CCO, Secretary, Treasurer",P - Purchase,2026-10-20 13:18:52,2026-10-16,10.07,10787,108633.0,
+NXG,Nxg Nextgen Infrastructure Income Fund,Sunderland Todd,Portfolio Manager,P - Purchase,2026-10-20 10:42:20,2026-10-19,46.5,1000,46500.0,
+SCISX,Ma Specialty Credit Income Fund,Ma Eagle II Holdings Fund,10%,P - Purchase,2026-10-20 09:49:54,2026-10-16,24.76,96931,2400000.0,
+ISBA,Isabella Bank Corp,Bourland Jill,Dir,P - Purchase,2026-10-20 08:32:30,2026-10-16,36.71,8,300.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-20 08:00:31,2026-10-19,0.98,6211,6086.0,
+XGN,Exagen Inc.,Chernett Jorey,10%,P - Purchase,2026-10-20 08:00:13,2026-10-19,7.46,14000,104440.0,
+NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,2026-10-20 06:35:25,2026-10-19,169.99,148,25159.0,
+NNOX,Nano-X Imaging Ltd.,Meltzer Erez,CEO,P - Purchase,2026-10-20 06:01:41,2026-10-19,0.45,25000,11250.0,D
+DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"CEO, 10%",P - Purchase,2026-10-19 20:32:48,2026-10-19,1.05,4700,4916.0,
+IAM,"Iambic Therapeutics, Inc.",Rachlin Evan Lockwood,Dir,P - Purchase,2026-10-19 19:47:37,2026-10-16,16.0,718750,11500000.0,D
+DSM,"Bny Mellon Strategic Municipal Bond Fund, Inc.","Saba Capital Management, L.P.",10%,P - Purchase,2026-10-19 18:02:49,2026-10-15,5.24,13762,72113.0,
+EP,Empire Petroleum Corp,Mulacek Phil E,"Dir, 10%",P - Purchase,2026-10-19 18:02:19,2026-10-09,3.19,97981,312811.0,M
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-19 17:49:39,2026-10-15,10.3,16577,170743.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-19 17:39:03,2026-10-15,11.62,9969,115840.0,
+CTY,"City Therapeutics, Inc.","Arch Venture Partners Xii, LLC",10%,P - Purchase,2026-10-19 17:38:59,2026-10-19,18.0,170000,3060000.0,D
+SNES,"Senestech, Inc.",Glenbrook Capital Management,10%,P - Purchase,2026-10-19 17:38:44,2026-10-15,0.72,983804,706057.0,M
+GRSD,Grandstand Ltd,McCrystle Kevin Ross,CEO,P - Purchase,2026-10-19 17:37:57,2026-10-15,1.16,2901,3365.0,
+CTY,"City Therapeutics, Inc.",Nelsen Robert,"Dir, 10%",P - Purchase,2026-10-19 17:37:43,2026-10-19,18.0,170000,3060000.0,D
+ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,2026-10-19 17:34:04,2026-10-15,8.35,36940,308576.0,M
+CTTH,"Ctt Pharmaceutical Holdings, Inc.","Ctt Pharmaceutical Holdings, Inc.",CEO,P - Purchase,2026-10-19 17:22:56,2026-10-15,0.06,2000,114.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-19 17:21:38,2026-10-15,9.88,200,1976.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-19 17:01:45,2026-10-15,12.47,194228,2422335.0,M
+CNXU,Conexeu Sciences Inc.,Purcell Lynn Sebastian,"Dir, 10%",P - Purchase,2026-10-19 16:46:04,2026-10-15,3.0,166666,499998.0,D
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-19 16:30:14,2026-10-15,33.43,510873,17076202.0,
+XFOR,"X4 Pharmaceuticals, Inc",Craig Adam R,Exec COB,P - Purchase,2026-10-19 16:06:26,2026-10-16,2.58,4600,11884.0,
+EQBK,Equity Bancshares Inc,Borck Leon,Dir,P - Purchase,2026-10-19 15:43:36,2026-10-19,48.78,380,18536.0,
+LNBIX,Lincoln Bain Capital Total Credit Fund,Lincoln Financial Investments Corp,"Investment Adviser, 10%",P - Purchase,2026-10-19 13:26:51,2026-10-15,10.09,2477701,25000000.0,
+FUL,Fuller H B Co,Malik Muhammad Shahbaz,"SVP, BAS",P - Purchase,2026-10-19 09:38:01,2026-10-16,52.23,479,25000.0,D
+API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,2026-10-19 08:36:56,2026-10-15,4.44,17345,76930.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-19 08:00:04,2026-10-16,1.03,2548,2616.0,
+APLD,Applied Digital Corp.,Cummins Wes,CEO; COB,P - Purchase,2026-10-19 07:11:41,2026-10-16,18.04,55803,1006686.0,
+APLD,Applied Digital Corp.,Zhang Jason Gechen,Pres,P - Purchase,2026-10-19 07:06:33,2026-10-16,18.86,300000,5658000.0,
+ELTP,Elite Pharmaceuticals Inc /Nv/,Dash Barry H,Dir,P - Purchase,2026-10-19 06:05:37,2026-10-09,0.26,100000,25980.0,
+FNGR,"Fingermotion, Inc.",Kahn Jolie,CEO,P - Purchase,2026-10-19 06:03:01,2026-10-16,0.17,15000,2550.0,
+FNGR,"Fingermotion, Inc.",Polimeni Christopher Vincent,CFO,P - Purchase,2026-10-19 06:01:05,2026-10-16,0.18,13500,2469.0,
+GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2026-10-16 20:42:41,2026-10-14,1.92,71065,136178.0,M
+ZONE,Zone Frontier Inc.,Hassen Tyler Lewis,CEO,P - Purchase,2026-10-16 19:18:00,2026-10-16,0.11,500000,55150.0,
+PRIM,Primoris Services Corp,McCallister Terry D,Dir,P - Purchase,2026-10-16 18:00:05,2026-10-15,79.98,22,1720.0,
+SAH,Sonic Automotive Inc,Rusnak Paul P.,10%,P - Purchase,2026-10-16 17:45:52,2026-10-14,59.9,12555,752045.0,
+KWY,Kingsway Corp,Fitzgerald John Taylor Maloney,"Pres, CEO",P - Purchase,2026-10-16 17:23:53,2026-10-15,9.74,357,3477.0,
+KWY,Kingsway Corp,Hansen Kent A,"CFO, EVP",P - Purchase,2026-10-16 17:23:12,2026-10-16,9.74,160,1558.0,
+NAD,Nuveen Quality Municipal Income Fund,Toth Terence J,Trustee,P - Purchase,2026-10-16 17:10:24,2026-10-14,10.13,7090,71800.0,
+SAFX,"Xcf Global, Inc.","Eeme Energy Spv I, LLC",10%,P - Purchase,2026-10-16 16:35:37,2026-10-16,1.19,119397858,142083451.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-16 16:30:03,2026-10-14,34.03,602103,20487096.0,
+FIS,"Fidelity National Information Services, Inc.",Goldstein Jeffrey A,Dir,P - Purchase,2026-10-16 16:06:26,2026-10-15,36.4,1585,57694.0,
+NBIS,Nebius Group N.V.,Grimme Arne,Dir,P - Purchase,2026-10-16 16:05:26,2026-10-15,169.99,296,50317.0,M
+PEP,Pepsico Inc,Pohlad Robert C,Dir,P - Purchase,2026-10-16 16:02:53,2026-10-14,128.28,184646,23686389.0,
+BYRN,Byrna Technologies Inc.,Roth Adam L.,Dir,P - Purchase,2026-10-16 16:01:57,2026-10-14,4.69,15000,70375.0,M
+PAM,Pampa Energy Inc.,Mindlin Marcos Marcelo,"Dir, 10%",P - Purchase,2026-10-16 15:19:04,2026-10-15,80.78,435000,35139300.0,
+MDBH,"Mdb Capital Holdings, LLC",Marlett Christopher A,"Co-Founder, 10%",P - Purchase,2026-10-16 15:15:25,2026-10-15,1.93,917,1770.0,
+JOF,Japan Smaller Capitalization Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-16 14:36:35,2026-10-14,12.33,13133,161930.0,
+GABC,"German American Bancorp, Inc.",Bawel Zachary W,Dir,P - Purchase,2026-10-16 14:35:20,2026-10-15,49.66,344,17100.0,
+GABC,"German American Bancorp, Inc.",Ryan Christina M,Dir,P - Purchase,2026-10-16 14:33:50,2026-10-15,49.66,2,100.0,
+GABC,"German American Bancorp, Inc.",Seger Andrew M,Dir,P - Purchase,2026-10-16 14:32:28,2026-10-15,49.66,2,100.0,
+PCQ,Pimco California Municipal Income Fund,Bank of America Corp /de/,10%,P - Purchase,2026-10-16 14:12:36,2026-10-14,8.13,2000,16261.0,
+UMH,"Umh Properties, Inc.",Mitchell William Edward,Dir,P - Purchase,2026-10-16 12:46:07,2026-10-15,14.63,68,1000.0,D
+UMH,"Umh Properties, Inc.",Miller Kevin S.,"EVP, CFO, Treasurer",P - Purchase,2026-10-16 12:43:13,2026-10-15,14.63,68,1000.0,D
+BORR,Borr Drilling Ltd,Snowling Harvey Edward,COO,P - Purchase,2026-10-16 10:23:54,2026-10-14,4.91,300000,1473000.0,D
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-16 08:00:19,2026-10-15,1.04,4100,4273.0,
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-16 07:30:18,2026-10-15,4.6,500000,2299150.0,
+EDRY,Eurodry Ltd.,Pittas Aristeidis P,Dir,P - Purchase,2026-10-16 06:30:57,2026-10-15,48.17,600,28901.0,
+BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2026-10-16 06:13:13,2026-10-14,3.44,5800,19952.0,
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-15 20:47:29,2026-10-13,2.91,883,2565.0,A
+TEGO,"Teg Overseas, Inc.",Artikkhodjaev Jakhongir Abidovich,10%,P - Purchase,2026-10-15 18:30:39,2026-10-13,0.0,124506935,0.0,
+TEGO,"Teg Overseas, Inc.","Tourism & Entertainment Group, LLC",10%,P - Purchase,2026-10-15 18:30:02,2026-10-13,0.0,124506935,0.0,
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-15 18:02:52,2026-10-13,2.91,4638,13473.0,M
+BPRE,Bluerock Private Real Estate Fund,Macdonald Ryan S,Dir,P - Purchase,2026-10-15 17:55:55,2026-10-13,12.8,120,1536.0,
+BPRE,Bluerock Private Real Estate Fund,Ruddy Jordan B.,Pres,P - Purchase,2026-10-15 17:50:25,2026-10-14,12.59,3520,44317.0,
+IMSR,Terrestrial Energy Inc. /De/,Pardee Charles G,Dir,P - Purchase,2026-10-15 17:42:14,2026-10-14,2.95,7500,22125.0,
+FLSC,Frazier Life Sciences Acquisition Corp. II,Cha Albert,"CEO, 10%",P - Purchase,2026-10-15 16:40:32,2026-10-15,10.0,300000,3000000.0,
+INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-15 16:39:18,2026-10-13,1.33,9569,12719.0,M
+TRXB,"Trex Bio, Inc.","Alexandria Venture Investments, LLC",10%,P - Purchase,2026-10-15 16:33:52,2026-10-13,14.0,178571,2499994.0,D
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-15 16:30:03,2026-10-13,34.68,253776,8801941.0,
+PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,2026-10-15 16:21:51,2026-10-13,8.36,110000,920049.0,M
+CXM,"Sprinklr, Inc.",Ward Jr Stephen M,Dir,P - Purchase,2026-10-15 16:15:05,2026-10-13,5.67,150000,850500.0,
+DGXX,Digi Power X Inc.,Amar Michel,"CEO, 10%",P - Purchase,2026-10-15 16:05:02,2026-10-14,2.76,20000,55256.0,
+MXF,Mexico Equity & Income Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-15 15:42:00,2026-10-14,19.88,12791,254285.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-15 15:30:53,2026-10-13,10.26,5340,54809.0,M
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-15 15:21:02,2026-10-14,11.74,56083,658414.0,
+MDBH,"Mdb Capital Holdings, LLC",Marlett Christopher A,"Co-Founder, 10%",P - Purchase,2026-10-15 14:12:03,2026-10-13,1.99,10000,19900.0,
+CRESY,Cresud Inc,Elsztain Alejandro Gustavo,Dir,P - Purchase,2026-10-15 11:29:36,2026-10-15,11.18,8295,92738.0,
+GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,2026-10-15 11:19:11,2026-10-13,39.81,67882,2702484.0,M
+VMO,Invesco Municipal Opportunity Trust,Setcavage Rebecca,Portfolio Manager,P - Purchase,2026-10-15 11:09:23,2026-10-13,8.64,3000,25920.0,
+QTEX,Qtrex Quantum Ltd.,Parnes Tal,Dir,P - Purchase,2026-10-15 10:25:13,2026-10-15,1.5,6666,9999.0,
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-15 09:03:57,2026-10-14,4.72,750000,3542550.0,
+NEOV,Neovolta Inc.,Hass John A,Dir,P - Purchase,2026-10-15 09:00:03,2026-09-30,2.61,25000,65250.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-15 08:00:26,2026-10-14,1.09,5400,5912.0,
+API,"Agora, Inc.",Zhao Bin,CEO,P - Purchase,2026-10-15 06:56:40,2026-10-12,4.21,24132,101521.0,M
+ZONE,Zone Frontier Inc.,Hassen Tyler Lewis,CEO,P - Purchase,2026-10-14 20:10:37,2026-10-14,0.11,750000,85200.0,
+INBX,"Inhibrx Biosciences, Inc.",Lappe Mark,CEO,P - Purchase,2026-10-14 18:58:14,2026-10-14,84.56,10040,848977.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-14 18:28:50,2026-10-12,12.81,427609,5477975.0,M
+CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,2026-10-14 17:45:02,2026-10-12,12.05,6194,74645.0,M
+DOLE,Dole Plc,Pale Fire Capital Se,10%,P - Purchase,2026-10-14 17:34:31,2026-10-12,13.28,5700,75721.0,
+NUAI,"New Era Energy & Digital, Inc.",McCarthy Kent C,10%,P - Purchase,2026-10-14 17:24:48,2026-10-09,4.77,250000,1192350.0,D
+QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,2026-10-14 17:15:22,2026-10-09,12.35,1352000,16697200.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-14 16:30:10,2026-10-09,34.2,479940,16412297.0,M
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-14 16:14:19,2026-10-12,12.03,14600,175638.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-14 15:57:07,2026-10-09,10.31,3685,38006.0,M
+LCU,Lion Copper Corp.,Alford Tony L,"Dir, 10%",P - Purchase,2026-10-14 12:52:14,2026-10-12,3.84,1000,3840.0,D
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-14 12:22:52,2026-10-13,4.93,1500000,7401600.0,
+SBLK,Star Bulk Carriers Corp.,Zagari Raffaele,Dir,P - Purchase,2026-10-14 12:20:53,2026-10-13,0.0,0,0.0,A
+XAIR,"Beyond Air, Inc.",Lin Yi-Chien,10%,P - Purchase,2026-10-14 12:14:15,2026-10-13,2.21,2607,5761.0,
+SBLK,Star Bulk Carriers Corp.,Zagari Raffaele,Dir,P - Purchase,2026-10-14 11:22:54,2026-10-13,0.0,0,0.0,
+KIO,Kkr Income Opportunities Fund,Pimentel Rudy,Pres,P - Purchase,2026-10-14 10:57:59,2026-10-01,10.22,4000,40890.0,M
+TDIC,Dreamland Ltd,Seto Wai Yue,"CEO, 10%",P - Purchase,2026-10-14 10:57:56,2026-10-09,2.0,300000,600000.0,
+IMSR,Terrestrial Energy Inc. /De/,Irish Simon,CEO,P - Purchase,2026-10-14 09:15:50,2026-10-13,3.01,16900,50818.0,
+EDRY,Eurodry Ltd.,Pittas Aristeidis P,Dir,P - Purchase,2026-10-14 08:28:38,2026-10-13,51.18,700,35826.0,
+BZUN,Baozun Inc.,Qiu Wenbin,CEO,P - Purchase,2026-10-14 06:20:48,2026-10-12,3.4,11800,40166.0,M
+TEO,Telecom Argentina Sa,Heine Martin Andres,See Remarks,P - Purchase,2026-10-13 21:46:00,2026-10-09,2.67,7000,18663.0,
+PODC,"Podcastone, Inc.",Merriman D Jonathan,Dir,P - Purchase,2026-10-13 21:45:01,2026-10-08,2.08,4700,9776.0,
+ONMD,Onemednet Corp,Kosasa Thomas,"Dir, 10%",P - Purchase,2026-10-13 20:32:49,2026-10-07,5.78,129758,750001.0,
+ONMD,Onemednet Corp,Yu Jeffrey,"Chief Medical Officer, 10%",P - Purchase,2026-10-13 20:32:48,2026-10-09,5.54,45126,249998.0,
+ZONE,Zone Frontier Inc.,Hassen Tyler Lewis,CEO,P - Purchase,2026-10-13 20:21:03,2026-10-13,0.12,1250000,146075.0,
+CTNT,Cheetah Net Supply Chain Service Inc.,Liu Huan,See Remarks,P - Purchase,2026-10-13 19:18:26,2026-10-09,3.3,100000,330000.0,
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-13 18:14:59,2026-10-08,2.91,12259,35619.0,M
+RTSN,"Retension Pharmaceuticals, Inc.",Keller Eric L.,CEO,P - Purchase,2026-10-13 18:12:28,2026-10-13,12.0,20800,249600.0,D
+RTSN,"Retension Pharmaceuticals, Inc.",Berger Franklin M,Dir,P - Purchase,2026-10-13 18:10:58,2026-10-13,12.0,10000,120000.0,D
+GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2026-10-13 17:45:03,2026-10-08,2.03,14632,29683.0,M
+CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,2026-10-13 17:24:50,2026-10-09,3.08,132,407.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-13 16:30:03,2026-10-08,34.3,261198,8958804.0,
+TRXB,"Trex Bio, Inc.","Svlsf Vi, LLC",10%,P - Purchase,2026-10-13 16:30:01,2026-10-08,14.0,92857,1299998.0,D
+AVO,"Mission Produce, Inc.",Gonzalez Luis A,Dir,P - Purchase,2026-10-13 16:24:52,2026-10-09,11.43,52022,594785.0,M
+GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,2026-10-13 16:06:36,2026-10-13,26.98,844130,22774728.0,
+SWZ,Total Return Securities Fund,Goldstein Phillip,Secretary,P - Purchase,2026-10-13 16:05:25,2026-10-08,5.73,5000,28637.0,
+HEI,Heico Corp,Mendelson Victor H,"Co-COB, Co-CEO",P - Purchase,2026-10-13 15:33:35,2026-10-08,220.3,795,175142.0,
+HEI,Heico Corp,Culligan Thomas M,Dir,P - Purchase,2026-10-13 15:32:49,2026-10-08,220.3,795,175142.0,
+PCQ,Pimco California Municipal Income Fund,Bank of America Corp /de/,10%,P - Purchase,2026-10-13 15:32:01,2026-10-12,8.04,2000,16080.0,
+HEI,Heico Corp,Hildebrandt Mark H,Dir,P - Purchase,2026-10-13 15:31:45,2026-10-08,220.3,795,175142.0,
+HEI,Heico Corp,Neitzel Julie,Dir,P - Purchase,2026-10-13 15:30:38,2026-10-08,294.93,592,174601.0,
+HEI,Heico Corp,Fine Carol F.,Dir,P - Purchase,2026-10-13 15:29:32,2026-10-08,220.3,795,175142.0,
+HEI,Heico Corp,Schriesheim Alan,Dir,P - Purchase,2026-10-13 15:28:11,2026-10-08,220.3,795,175142.0,
+HEI,Heico Corp,Henriques Adolfo,Dir,P - Purchase,2026-10-13 15:27:07,2026-10-08,220.3,795,175142.0,
+HEI,Heico Corp,Cheruvatath Nandakumar,Dir,P - Purchase,2026-10-13 15:25:45,2026-10-08,220.3,795,175142.0,
+FEAM,"5E Advanced Materials, Inc.",Vant Hoff Graham,Dir,P - Purchase,2026-10-13 15:02:24,2026-10-08,3.59,60000,215400.0,
+LCU,Lion Copper Corp.,Sharman Mark Brady,Dir,P - Purchase,2026-10-13 13:10:03,2026-10-09,3.98,7285,28997.0,D
+QTEX,Qtrex Quantum Ltd.,Ben-Noon Dagi Shahar,CEO,P - Purchase,2026-10-13 12:40:48,2026-10-13,1.49,14093,20999.0,
+FINS,Angel Oak Financial Strategies Income Term Trust,Bortz Robert Edward III,Pres,P - Purchase,2026-10-13 12:26:03,2026-10-12,11.92,418,4983.0,
+WVVI,Willamette Valley Vineyards Inc,Hazlett John Walter,CFO,P - Purchase,2026-10-13 11:47:23,2026-10-09,2.02,10000,20205.0,M
+IMSR,Terrestrial Energy Inc. /De/,Buckman Frederick W,Dir,P - Purchase,2026-10-13 11:06:12,2026-10-09,3.28,12000,39336.0,
+IIPR,Innovative Industrial Properties Inc,Gold Alan D,Exec COB,P - Purchase,2026-10-13 10:30:46,2026-10-08,25.0,40000,1000000.0,
+HBIA,Hills Bancorporation,Slattery Thomas M.,Dir,P - Purchase,2026-10-13 10:19:47,2026-10-09,47.0,1000,47000.0,
+GOLD,"Gold.Com, Inc.","Tether Global Investments Fund, S.I.C.A.F., S.A.",10%,P - Purchase,2026-10-13 10:13:36,2026-10-07,39.87,32118,1280535.0,M
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-13 10:02:09,2026-10-08,11.95,27937,333847.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-13 10:00:34,2026-10-08,9.4,400,3760.0,
+SAR,Saratoga Investment Corp.,Oberbeck Christian L,"CEO, Dir",P - Purchase,2026-10-13 08:30:27,2026-10-08,14.86,30000,445800.0,M
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-13 08:28:07,2026-10-09,4.74,2500000,11843500.0,
+PED,Pedevco Corp,Kukes Simon G,10%,P - Purchase,2026-10-13 08:11:17,2026-10-08,13.0,147070,1911910.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-13 08:00:06,2026-10-09,1.14,18827,21446.0,M
+ALP,Alpha Compute Corp,Villani Fiorenzo,See Remarks,P - Purchase,2026-10-13 07:34:41,2026-10-07,3.8,5150,19570.0,
+EP,Empire Petroleum Corp,Mulacek Phil E,"Dir, 10%",P - Purchase,2026-10-13 07:11:28,2026-10-05,2.71,25127,68068.0,M
+DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"CEO, 10%",P - Purchase,2026-10-13 07:03:16,2026-10-12,1.02,4700,4785.0,
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-09 21:07:26,2026-10-06,13.06,651063,8501527.0,M
+NEOG,Neogen Corp,Nassif Mikheal,CEO,P - Purchase,2026-10-09 19:24:17,2026-10-09,11.95,505,6035.0,
+LCU,Lion Copper Corp.,Alford Tony L,"Dir, 10%",P - Purchase,2026-10-09 19:16:58,2026-10-08,4.01,5600,22457.0,DM
+SKYA,"Skyai, Inc.",Bastion Trading Ltd,10%,P - Purchase,2026-10-09 18:59:09,2026-10-07,1.78,44000,78263.0,D
+MWA,"Mueller Water Products, Inc.",Healy Brian C.,Dir,P - Purchase,2026-10-09 17:34:07,2026-10-07,21.75,1376,29927.0,
+AHRT,"Ah Realty Trust, Inc.",Wimbush Frederick Blair,Dir,P - Purchase,2026-10-09 17:06:28,2026-10-07,5.98,1127,6736.0,DM
+AHRT,"Ah Realty Trust, Inc.",Bigman Theodore,Dir,P - Purchase,2026-10-09 17:05:28,2026-10-08,5.96,1879,11200.0,D
+CRT,Cross Timbers Royalty Trust,Oliver Eric L,10%,P - Purchase,2026-10-09 16:37:18,2026-10-07,11.9,7359,87575.0,M
+SAH,Sonic Automotive Inc,Rusnak Paul P.,10%,P - Purchase,2026-10-09 16:33:21,2026-10-07,59.78,13701,819046.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-09 16:16:08,2026-10-07,34.4,606912,20880079.0,
+NMCO,Nuveen Municipal Credit Opportunities Fund,Hamilton Michael S.,Portfolio Manager,P - Purchase,2026-10-09 15:51:39,2026-10-09,8.7,3000,26106.0,
+LCU,Lion Copper Corp.,Alford Tony L,"Dir, 10%",P - Purchase,2026-10-09 14:00:18,2026-10-07,4.28,3000,12830.0,DM
+LCU,Lion Copper Corp.,Sharman Mark Brady,Dir,P - Purchase,2026-10-09 13:51:03,2026-10-07,4.39,1000,4388.0,D
+FEAM,"5E Advanced Materials, Inc.",Weibel Paul Wesley III,CEO,P - Purchase,2026-10-09 12:46:34,2026-10-08,3.48,7176,24972.0,
+QTEX,Qtrex Quantum Ltd.,Ben-Noon Dagi Shahar,CEO,P - Purchase,2026-10-09 11:29:54,2026-10-09,1.67,18181,30362.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-09 10:01:55,2026-10-07,9.43,2955,27866.0,
+ECF,Ellsworth Growth & Income Fund Ltd,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-09 09:59:25,2026-10-07,11.97,17548,210050.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-09 09:57:47,2026-10-07,10.36,1223,12670.0,
+PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,2026-10-09 09:43:09,2026-10-07,8.47,215000,1821054.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-09 09:15:16,2026-10-08,1.13,11836,13333.0,
+AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,2026-10-09 08:01:30,2026-10-08,8.9,5000,44500.0,
+GGR,Gogoro Inc.,Yin Chung-Yao,Dir,P - Purchase,2026-10-09 06:30:03,2026-10-07,2.48,14158991,35114298.0,D
+AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10%,P - Purchase,2026-10-08 19:12:58,2026-10-06,7.18,272695,1957950.0,D
+INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-08 18:27:56,2026-10-06,1.33,10903,14484.0,M
+IMMR,Immersion Corp,Singer Eric,"Pres, CEO",P - Purchase,2026-10-08 18:07:30,2026-10-07,7.14,41000,292800.0,
+CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,2026-10-08 17:56:09,2026-10-06,3.13,15745,49323.0,M
+NRXS,"Neuraxis, Inc",Carrico Brian Allen,CEO,P - Purchase,2026-10-08 17:50:03,2026-10-08,4.84,268,1297.0,
+NRXS,"Neuraxis, Inc",Carrico Thomas Joeseph,"CRO, CCO, CPO",P - Purchase,2026-10-08 17:47:52,2026-10-08,4.84,328,1588.0,
+NRXS,"Neuraxis, Inc",Henrichs Timothy Robert,CFO,P - Purchase,2026-10-08 17:45:46,2026-10-08,4.84,1937,9375.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-08 16:30:14,2026-10-06,35.23,116345,4099102.0,
+PHK,Pimco High Income Fund,Flattum David C,Dir,P - Purchase,2026-10-08 16:05:08,2026-10-06,4.14,60204,249245.0,
+PDI,Pimco Dynamic Income Fund,Flattum David C,Dir,P - Purchase,2026-10-08 16:05:06,2026-10-06,14.3,17448,249508.0,
+WVVI,Willamette Valley Vineyards Inc,Osborn Michael Jordan,CEO,P - Purchase,2026-10-08 14:32:06,2026-10-07,1.93,5000,9655.0,
+CET,Central Securities Corp,Hill John C,"CEO, Pres",P - Purchase,2026-10-08 11:34:57,2026-10-06,56.37,500,28185.0,
+FUL,Fuller H B Co,Bailly R Jeffrey,Dir,P - Purchase,2026-10-08 11:26:56,2026-10-07,50.0,10000,500000.0,D
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-08 11:11:47,2026-10-07,4.31,1250000,5390250.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-08 10:39:46,2026-10-06,10.47,5497,57554.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-08 10:38:13,2026-10-06,9.41,4439,41771.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-08 09:15:21,2026-10-07,1.21,5505,6676.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yuan Lipen,VP,P - Purchase,2026-10-08 06:35:58,2026-10-07,79.39,40,3176.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yeap Choh Fei,SVP,P - Purchase,2026-10-08 06:35:53,2026-10-07,79.39,52,4128.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Zhang Kevin Xiaoqiang,"SVP, Deputy Co-COO",P - Purchase,2026-10-08 06:35:46,2026-10-07,79.39,59,4684.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Yoo Chue-San,VP,P - Purchase,2026-10-08 06:35:40,2026-10-07,79.39,50,3970.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Wu Shien-Yang,SVP,P - Purchase,2026-10-08 06:32:36,2026-10-07,79.39,53,4208.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Wei Che-Chia,"COB, CEO",P - Purchase,2026-10-08 06:32:29,2026-10-07,79.39,144,11432.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Wu Yi-Huang,VP,P - Purchase,2026-10-08 06:32:22,2026-10-07,79.39,39,3096.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Wang Ying-Lang,SVP,P - Purchase,2026-10-08 06:30:17,2026-10-07,79.39,52,4128.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Mii Yuh-Jier,"EVP, Co-COO",P - Purchase,2026-10-08 06:30:10,2026-10-07,79.39,68,5399.0,D
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Tien Bor-Zen,VP,P - Purchase,2026-10-08 06:30:04,2026-10-07,79.39,47,3731.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lu Chin-Sheng,VP,P - Purchase,2026-10-08 06:27:28,2026-10-07,79.39,36,2858.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lu Lee-Chung,VP,P - Purchase,2026-10-08 06:27:22,2026-10-07,79.39,49,3890.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Shyue-Shyh,VP,P - Purchase,2026-10-08 06:27:14,2026-10-07,79.39,44,3493.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lin Chris Horng-Dar,"VP, CIO",P - Purchase,2026-10-08 06:25:04,2026-10-07,79.39,44,3493.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Lee Chun-Hsien,SVP,P - Purchase,2026-10-08 06:24:56,2026-10-07,79.39,51,4049.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Ku Yao-Ching,VP,P - Purchase,2026-10-08 06:24:49,2026-10-07,79.39,46,3652.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Hwang Yuan-Ko,VP,P - Purchase,2026-10-08 06:21:25,2026-10-07,79.39,39,3096.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Huang Jen-Chau,"SVP, CFO",P - Purchase,2026-10-08 06:21:17,2026-10-07,79.39,28,2223.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Jang Syun-Ming,VP,P - Purchase,2026-10-08 06:21:11,2026-10-07,79.39,46,3652.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Hou Yung-Chin,"SVP, Deputy Co-COO",P - Purchase,2026-10-08 06:17:51,2026-10-07,79.39,60,4763.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Hsu Kuo-Chin,VP,P - Purchase,2026-10-08 06:17:46,2026-10-07,79.39,52,4128.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,He Jun,VP,P - Purchase,2026-10-08 06:17:39,2026-10-07,79.39,43,3414.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chuang Tzu-Sou,VP,P - Purchase,2026-10-08 06:12:39,2026-10-07,79.39,46,3652.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Cao Min,VP,P - Purchase,2026-10-08 06:12:32,2026-10-07,79.39,51,4049.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chin Yung-Pei,"EVP, Co-COO",P - Purchase,2026-10-08 06:12:25,2026-10-07,79.39,67,5319.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chang Tzonz-Sheng,SVP,P - Purchase,2026-10-08 06:12:18,2026-10-07,79.39,51,4049.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Fang Shu-Hua,"SVP, GC",P - Purchase,2026-10-08 06:12:12,2026-10-07,79.39,53,4208.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chuang Juiping,VP,P - Purchase,2026-10-08 06:12:05,2026-10-07,79.39,46,3652.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chen Pei-Hung,VP,P - Purchase,2026-10-08 06:11:58,2026-10-07,79.39,43,3414.0,
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Chen Chih-Ho,Controller,P - Purchase,2026-10-08 06:11:51,2026-10-07,79.39,31,2461.0,
+STWI,Stagewise Strategies Corp.,"Tourism & Entertainment Group, LLC",10%,P - Purchase,2026-10-07 19:57:41,2026-10-05,0.14,1000000,138000.0,
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-07 17:33:56,2026-10-05,2.93,14,41.0,
+VRA,"Vera Bradley, Inc.",Brockman Ivan,Dir,P - Purchase,2026-10-07 17:02:51,2026-10-06,5.02,10000,50200.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-07 16:30:03,2026-10-05,34.75,65711,2283648.0,
+INLX,"Intellinetics, Inc.",Taglich Robert,10%,P - Purchase,2026-10-07 16:00:17,2026-10-06,5.0,4000,20000.0,
+SAH,Sonic Automotive Inc,Rusnak Paul P.,10%,P - Purchase,2026-10-07 14:45:42,2026-10-06,59.9,1119,67028.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-07 14:00:21,2026-10-05,9.38,1775,16650.0,
+GF,New Germany Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-07 13:58:29,2026-10-05,10.51,25144,264263.0,
+MXF,Mexico Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-07 13:56:42,2026-10-05,20.09,25900,520331.0,
+AGMB,Agomab Therapeutics Nv,Epstein David R,Dir,P - Purchase,2026-10-07 08:57:36,2026-10-05,8.64,10000,86350.0,M
+AGMB,Agomab Therapeutics Nv,Kemula Pierre Thadee Victor,CFO,P - Purchase,2026-10-07 08:47:17,2026-10-06,8.59,10000,85940.0,
+AGMB,Agomab Therapeutics Nv,Knotnerus Tim Jasper,CEO,P - Purchase,2026-10-07 08:06:35,2026-10-05,8.58,11000,94380.0,M
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-07 08:00:11,2026-10-06,1.24,7023,8697.0,
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-07 07:57:46,2026-10-06,4.24,1500000,6364200.0,
+LWAY,"Lifeway Foods, Inc.","Divisadero Street Capital Management, LP",10%,P - Purchase,2026-10-06 20:35:39,2026-10-02,20.92,103684,2169394.0,M
+AXIA,Axia Energia S.A.,Batista De Lima Filho Pedro,Dir,P - Purchase,2026-10-06 18:07:46,2026-10-02,10.81,489900,5295819.0,
+PSUS,"Pershing Square Usa, Ltd.",Israel Ryan,Chief Investment Officer,P - Purchase,2026-10-06 17:59:00,2026-10-02,37.47,256613,9615216.0,M
+HRL,Hormel Foods Corp /De/,Newlands William A,Chairman of the Board,P - Purchase,2026-10-06 16:32:46,2026-10-05,20.1,10000,201000.0,
+QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,2026-10-06 16:30:12,2026-10-02,13.85,250000,3462500.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-06 16:30:04,2026-10-02,34.27,187155,6414045.0,
+DYN,"Dyne Therapeutics, Inc.",Posner Brian S,Dir,P - Purchase,2026-10-06 16:15:03,2026-10-02,16.0,2500,40000.0,
+NXH,"Neighborhood Intelligence, Inc.",Lemonis Marcus,"Exec COB, CEO",P - Purchase,2026-10-06 16:02:40,2026-10-06,2.76,362319,1000000.0,
+SAH,Sonic Automotive Inc,Rusnak Paul P.,10%,P - Purchase,2026-10-06 14:39:07,2026-10-01,59.5,21645,1287878.0,
+PRTA,Prothena Corp Public Ltd Co,Scully William P,10%,P - Purchase,2026-10-06 13:53:53,2026-10-02,8.57,100000,857240.0,
+AEF,"Abrdn Emerging Markets Ex-China Fund, Inc.",Clark Anthony S.,Dir,P - Purchase,2026-10-06 11:04:44,2026-10-05,9.73,2000,19452.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-06 09:15:02,2026-10-05,1.27,8683,11016.0,
+BORR,Borr Drilling Ltd,Troim Tor Olav,Dir,P - Purchase,2026-10-06 07:29:54,2026-10-05,4.13,1500000,6197100.0,
+AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10%,P - Purchase,2026-10-06 06:18:27,2026-10-02,7.58,884809,6708731.0,DM
+ACCV,Accelevation Holdings Corp.,Rubiera Michael,CEO,P - Purchase,2026-10-05 21:45:03,2026-10-01,18.0,203200,3657600.0,
+ACCV,Accelevation Holdings Corp.,Jones Ginger M,Dir,P - Purchase,2026-10-05 21:27:48,2026-10-01,18.0,10000,180000.0,
+ACCV,Accelevation Holdings Corp.,Heckes Howard C,Dir,P - Purchase,2026-10-05 21:27:40,2026-10-01,18.0,5000,90000.0,
+ACCV,Accelevation Holdings Corp.,Donahue Paul D,Dir,P - Purchase,2026-10-05 21:27:32,2026-10-01,18.0,7000,126000.0,
+ACCV,Accelevation Holdings Corp.,Jewell Brent C,COO,P - Purchase,2026-10-05 21:27:25,2026-10-01,18.0,2500,45000.0,
+LEN,Lennar Corp /New/,Berkshire Hathaway Inc,10%,P - Purchase,2026-10-05 21:02:56,2026-10-01,79.65,2418637,192634433.0,M
+NXRT,"Nexpoint Residential Trust, Inc.",McGraner Matt,See Remarks,P - Purchase,2026-10-05 19:41:49,2026-10-01,18.65,10780,201049.0,M
+OM,"Outset Medical, Inc.",Leonard Braden Michael,10%,P - Purchase,2026-10-05 19:24:40,2026-10-01,3.55,244909,870260.0,M
+DLPN,"Dolphin Entertainment, Inc.",O'Dowd William IV,"CEO, 10%",P - Purchase,2026-10-05 18:51:20,2026-10-05,1.08,4500,4856.0,
+GRCE,"Grace Therapeutics, Inc.",Opaleye Management Inc.,10%,P - Purchase,2026-10-05 18:46:05,2026-10-01,2.05,60490,123819.0,M
+BPRE,Bluerock Private Real Estate Fund,Kamfar Ramin,Dir,P - Purchase,2026-10-05 18:06:50,2026-10-01,12.66,269164,3408193.0,M
+WVVI,Willamette Valley Vineyards Inc,Voorhies Gregory William,Dir,P - Purchase,2026-10-05 18:05:30,2026-10-02,1.92,6000,11500.0,M
+BPRE,Bluerock Private Real Estate Fund,Macdonald Ryan S,Dir,P - Purchase,2026-10-05 18:00:26,2026-10-02,12.7,6700,85090.0,
+INLX,"Intellinetics, Inc.",Seid Paul,Dir,P - Purchase,2026-10-05 17:29:13,2026-10-01,5.15,162,834.0,
+PALI,"Palisade Bio, Inc.",Williams Donald Allen,Dir,P - Purchase,2026-10-05 17:20:00,2026-10-01,1.44,20000,28800.0,M
+GGROU,Golden Growers Cooperative,Johnson Chris A,Dir,P - Purchase,2026-10-05 17:18:35,2026-10-01,5.0,10000,50000.0,
+INM,Inmed Pharmaceuticals Inc.,"Adar1 Capital Management, LLC",10%,P - Purchase,2026-10-05 17:11:48,2026-10-01,1.33,42920,57080.0,M
+SUNB,"Sunbelt Rentals Holdings, Inc.",Horgan Kyle,"EVP, Specialty",P - Purchase,2026-10-05 17:00:09,2026-10-01,73.3,25,1863.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-05 16:45:48,2026-10-01,33.07,272208,9002473.0,
+LND,Brasilagro - Brazilian Agricultural Real Estate Co,Elsztain Alejandro Gustavo,Dir,P - Purchase,2026-10-05 16:27:46,2026-09-30,3.52,56750,199696.0,M
+AIRG,Airgain Inc,Memmen Stephan D,Dir,P - Purchase,2026-10-05 16:26:26,2026-10-02,4.55,1500,6825.0,D
+EP,Empire Petroleum Corp,Mulacek Phil E,"Dir, 10%",P - Purchase,2026-10-05 16:24:20,2026-09-30,2.25,11915,26825.0,
+XIVYX,Institutional Investment Strategy Fund,Ghodoosi Arash,"Pres, Principal Exec",P - Purchase,2026-10-05 16:20:30,2026-10-01,13.2,8,101.0,
+IBKR,"Interactive Brokers Group, Inc.",Conkling Lori A,Dir,P - Purchase,2026-10-05 16:01:03,2026-10-01,85.42,25,2136.0,
+CZNC,Citizens & Northern Corp,Shattuck Katherine W,Dir,P - Purchase,2026-10-05 14:07:16,2026-10-02,25.51,8,204.0,
+CZNC,Citizens & Northern Corp,Pellegrino Frank G,Dir,P - Purchase,2026-10-05 14:03:33,2026-10-02,25.51,245,6250.0,
+MKC,McCormick & Co Inc,Hattersley Gavin,Dir,P - Purchase,2026-10-05 13:14:38,2026-10-02,44.61,1000,44610.0,
+WVVI,Willamette Valley Vineyards Inc,Osborn Michael Jordan,CEO,P - Purchase,2026-10-05 12:02:32,2026-10-02,1.91,10000,19065.0,
+MXF,Mexico Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-05 11:12:38,2026-10-01,19.98,19494,389471.0,M
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-05 10:57:26,2026-10-01,9.41,6220,58500.0,M
+SKYH,Sky Harbour Group Corp,Gonzalez Francisco,CFO,P - Purchase,2026-10-05 09:08:46,2026-10-02,9.25,3850,35613.0,D
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-05 09:00:20,2026-10-02,1.29,5672,7323.0,
+ESEA,Euroseas Ltd.,Pittas Aristeidis P,Dir,P - Purchase,2026-10-05 08:56:24,2026-10-02,71.07,1050,74626.0,
+VCIG,Vci Global Ltd,Hoo Voon Him,"CEO, Dir, 10%",P - Purchase,2026-10-05 06:10:29,2026-09-30,1.62,193349,313225.0,
+AUBN,"Auburn National Bancorporation, Inc",O'Donnell Shannon,SVP,P - Purchase,2026-10-02 18:44:42,2026-09-30,27.53,27,743.0,
+AUBN,"Auburn National Bancorporation, Inc",Housel David E,Dir,P - Purchase,2026-10-02 18:44:13,2026-09-30,27.49,51,1402.0,
+AUBN,"Auburn National Bancorporation, Inc",Barrett J Tutt,Dir,P - Purchase,2026-10-02 18:43:47,2026-09-30,27.5,73,2007.0,
+AUBN,"Auburn National Bancorporation, Inc",Ham William F Jr,Dir,P - Purchase,2026-10-02 18:43:18,2026-09-30,27.41,47,1288.0,
+JCTC,Jewett Cameron Trading Co Ltd,"Ajb Investment Fund Ii, LP",10%,P - Purchase,2026-10-02 18:16:25,2026-09-30,2.91,7916,23067.0,M
+CINT,Ci&T Inc,Martins Fernando Matt Borges,"Dir, 10%",P - Purchase,2026-10-02 17:42:12,2026-10-01,3.18,4123,13111.0,
+GME,Gamestop Corp.,Cohen Ryan,"Pres, CEO, COB",P - Purchase,2026-10-02 16:57:33,2026-10-02,24.41,700000,17084270.0,
+PORT.,Southport Acquisition Corp. II,Southport Acquisition Sponsor II LLC,10%,P - Purchase,2026-10-02 16:30:49,2026-09-30,10.0,500000,5000000.0,
+QVCG,"Qvc Group, Inc.",Goldentree Asset Management LP,10%,P - Purchase,2026-10-02 16:30:30,2026-09-30,13.62,5779,78692.0,M
+PORT.,Southport Acquisition Corp. II,Spencer Jeb S.,"CEO, CFO, 10%",P - Purchase,2026-10-02 16:30:18,2026-09-30,10.0,500000,5000000.0,
+CRBG,"Corebridge Financial, Inc.",Nippon Life Insurance Co,10%,P - Purchase,2026-10-02 16:30:05,2026-09-30,33.65,348215,11716077.0,
+CRL,"Charles River Laboratories International, Inc.",Coleman Glenn,"EVP, CFO",P - Purchase,2026-10-02 16:27:48,2026-09-30,297.43,10,2974.0,
+FG,"F&G Annuities & Life, Inc.",Murphy Conor,"CEO, Pres",P - Purchase,2026-10-02 16:14:21,2026-09-30,21.68,231,5015.0,
+FGBI,"First Guaranty Bancshares, Inc.",Smith Edgar R. III,"Dir, 10%",P - Purchase,2026-10-02 16:11:29,2026-09-30,8.28,99277,822014.0,
+ACOG,Alpha Cognition Inc.,Opaleye Management Inc.,10%,P - Purchase,2026-10-02 16:05:22,2026-10-01,8.69,19050,165634.0,
+BUKS,Butler National Corp,Daly Joseph Patrick,"Dir, 10%",P - Purchase,2026-10-02 16:03:58,2026-10-01,4.09,15000,61387.0,M
+RGCO,Rgc Resources Inc,Oliver Lawrence T.,"SVP, Secretary",P - Purchase,2026-10-02 13:33:25,2026-10-01,21.59,9,200.0,D
+RGCO,Rgc Resources Inc,Miles Christen Brooke,"VP, HR",P - Purchase,2026-10-02 13:32:19,2026-10-01,21.59,5,100.0,D
+MPB,Mid Penn Bancorp Inc,Mowery Theodore W,Dir,P - Purchase,2026-10-02 13:10:51,2026-09-30,35.4,56,1982.0,
+MPB,Mid Penn Bancorp Inc,Frank Joel L.,Dir,P - Purchase,2026-10-02 13:06:50,2026-09-30,35.4,70,2478.0,
+MPB,Mid Penn Bancorp Inc,Evans Albert J.,Dir,P - Purchase,2026-10-02 13:04:38,2026-09-30,35.4,282,9983.0,
+MPB,Mid Penn Bancorp Inc,De Soto Matthew G,Dir,P - Purchase,2026-10-02 13:01:22,2026-09-30,35.4,283,10018.0,
+MPB,Mid Penn Bancorp Inc,Brumbaugh Kimberly J,Dir,P - Purchase,2026-10-02 12:58:59,2026-09-30,35.4,70,2478.0,
+MPB,Mid Penn Bancorp Inc,Abel Robert A,Dir,P - Purchase,2026-10-02 12:56:59,2026-09-30,35.4,14,496.0,
+DLHC,Dlh Holdings Corp.,Mink Brook Asset Management LLC,10%,P - Purchase,2026-10-02 10:10:02,2026-10-01,3.7,199099,736666.0,
+SKYH,Sky Harbour Group Corp,Gonzalez Francisco,CFO,P - Purchase,2026-10-02 09:27:48,2026-10-01,9.4,1600,15040.0,D
+NYAX,Nayax Ltd.,Nechmad Yair,"CEO, Co Founder, COB",P - Purchase,2026-10-02 08:36:48,2026-09-30,47.84,44148,2112082.0,
+PYXS,"Pyxis Oncology, Inc.",Gordonmd Global Investments LP,10%,P - Purchase,2026-10-02 08:35:26,2026-10-01,0.0,5517000,0.0,D
+CMPX,"Compass Therapeutics, Inc.",Lerner Neil,CHIEF ACCOUNTING OFFICER,P - Purchase,2026-10-02 08:00:24,2026-10-01,0.92,20000,18400.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-02 07:56:35,2026-10-01,1.42,9000,12794.0,
+GME,Gamestop Corp.,Turner Nat,Dir,P - Purchase,2026-10-01 20:55:48,2026-10-01,24.33,10462,254540.0,
+AVR,Anteris Technologies Global Corp.,L1 Capital Pty Ltd,10%,P - Purchase,2026-10-01 20:09:03,2026-09-30,7.62,397226,3027832.0,DM
+WVVI,Willamette Valley Vineyards Inc,Bernau James W,Pres,P - Purchase,2026-10-01 19:33:07,2026-10-01,1.73,5500,9491.0,
+CSWC,Capital Southwest Corp,Thomas William R III,Dir,P - Purchase,2026-10-01 19:04:24,2026-10-01,23.04,2170,50005.0,
+ASPI,Asp Isotopes Inc.,Ryan Robert John Andrew,Dir,P - Purchase,2026-10-01 17:52:58,2026-09-30,2.68,15000,40200.0,
+PRHI,"Presurance Holdings, Inc.",Sarafa Joseph D,Dir,P - Purchase,2026-10-01 17:50:10,2026-09-30,6.75,11000,74247.0,
+PRHI,"Presurance Holdings, Inc.",O'Hanlon Isolde,Dir,P - Purchase,2026-10-01 17:47:34,2026-09-30,6.75,7250,48935.0,
+PRHI,"Presurance Holdings, Inc.",Smith James Grant,Dir,P - Purchase,2026-10-01 17:43:03,2026-09-30,6.75,7250,48935.0,
+PRHI,"Presurance Holdings, Inc.",Roney Brian J,CEO,P - Purchase,2026-10-01 17:37:51,2026-09-30,6.75,7500,50623.0,
+PRHI,"Presurance Holdings, Inc.",Meloche Harold J,"CFO, Treasurer",P - Purchase,2026-10-01 17:33:16,2026-09-30,6.38,4100,26138.0,
+UUU,"Universal Safety Products, Inc.",Ault Milton C III,"Dir, 10%",P - Purchase,2026-10-01 17:30:06,2026-09-30,0.29,18000,5134.0,E
+PODC,"Podcastone, Inc.",Merriman D Jonathan,Dir,P - Purchase,2026-10-01 17:29:44,2026-09-30,2.21,7000,15470.0,
+RDGL,Vivos Inc,Korenko Michael K,CEO,P - Purchase,2026-10-01 17:15:59,2026-09-30,0.5,200000,99600.0,
+DKS,"Dick'S Sporting Goods, Inc.",Barnes Matthew,Pres - Foot Locker Intl,P - Purchase,2026-10-01 16:58:22,2026-09-30,136.39,3665,499869.0,
+RGT,"Royce Global Trust, Inc.",Clark Christopher D,Pres,P - Purchase,2026-10-01 16:58:01,2026-09-30,14.22,743,10565.0,
+RMT,"Royce Micro-Cap Trust, Inc.",Clark Christopher D,Pres,P - Purchase,2026-10-01 16:51:01,2026-09-30,13.4,1000,13400.0,
+GTLB,Gitlab Inc.,Staples William,CEO,P - Purchase,2026-10-01 16:46:35,2026-09-30,46.62,2677,124802.0,
+TRCK,"Track Group, Inc.","Jcp Investment Management, LLC",10%,P - Purchase,2026-10-01 16:34:56,2026-09-30,0.6,384021,230413.0,
+PCG,Pg&E Corp,Larsen John O,Dir,P - Purchase,2026-10-01 16:16:05,2026-09-30,12.2,7500,91500.0,
+CTM,"Castellum, Inc.",Martin Tammy L,"GC , Secretary",P - Purchase,2026-10-01 16:09:45,2026-10-01,0.54,1396,747.0,
+CTM,"Castellum, Inc.",Bell David T,CFO,P - Purchase,2026-10-01 16:09:16,2026-10-01,0.54,1396,747.0,
+CTM,"Castellum, Inc.",Merriman Andrew,COO,P - Purchase,2026-10-01 16:08:48,2026-10-01,0.54,1396,747.0,
+CTM,"Castellum, Inc.",Ives Glen R,Pres,P - Purchase,2026-10-01 16:08:20,2026-10-01,0.54,1700,910.0,
+MXF,Mexico Fund Inc,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-01 15:54:41,2026-09-30,20.39,1238,25243.0,
+GRX,Gabelli Healthcare & Wellnessrx Trust,"Saba Capital Management, L.P.",10%,P - Purchase,2026-10-01 15:50:23,2026-09-30,9.52,519,4941.0,
+SPG,Simon Property Group Inc.,Roe Peggy,Dir,P - Purchase,2026-10-01 15:34:53,2026-09-30,202.78,88,17845.0,
+SPG,Simon Property Group Inc.,Stewart Marta R,Dir,P - Purchase,2026-10-01 15:31:26,2026-09-30,202.78,199,40353.0,
+SPG,Simon Property Group Inc.,Smith Daniel C.,Dir,P - Purchase,2026-10-01 15:28:30,2026-09-30,202.78,350,70973.0,
+SPG,Simon Property Group Inc.,Selig Stefan M,Dir,P - Purchase,2026-10-01 15:27:05,2026-09-30,202.78,208,42178.0,
+SPG,Simon Property Group Inc.,Rodkin Gary M,Dir,P - Purchase,2026-10-01 15:22:48,2026-09-30,202.78,232,47045.0,
+SPG,Simon Property Group Inc.,Lewis Randall J,Dir,P - Purchase,2026-10-01 15:21:07,2026-09-30,202.78,65,13181.0,
+SPG,Simon Property Group Inc.,Leibowitz Reuben S,Dir,P - Purchase,2026-10-01 15:17:24,2026-09-30,202.78,480,97334.0,
+SPG,Simon Property Group Inc.,Jones Nina P,Dir,P - Purchase,2026-10-01 15:15:06,2026-09-30,202.78,46,9328.0,
+SPG,Simon Property Group Inc.,Glasscock Larry C,Dir,P - Purchase,2026-10-01 15:12:56,2026-09-30,202.78,367,74420.0,
+SPG,Simon Property Group Inc.,Cicco Martin J,Dir,P - Purchase,2026-10-01 15:11:19,2026-09-30,202.78,15,3042.0,
+SPG,Simon Property Group Inc.,Aeppel Glyn,Dir,P - Purchase,2026-10-01 15:09:06,2026-09-30,202.78,222,45017.0,
+CRESY,Cresud Inc,Elsztain Alejandro Gustavo,CEO,P - Purchase,2026-10-01 15:04:17,2026-09-30,11.5,17334,199282.0,M
+FUL,Fuller H B Co,Martin Celine Christine,Dir,P - Purchase,2026-10-01 14:04:35,2026-09-30,49.5,465,22998.0,D
+SKYH,Sky Harbour Group Corp,Gonzalez Francisco,CFO,P - Purchase,2026-10-01 10:18:20,2026-09-30,9.69,1500,14535.0,D
+MFM,Aberdeen Municipal Income Fund,Baird Gordon A,Dir,P - Purchase,2026-10-01 09:34:14,2026-09-30,4.89,300,1466.0,
+XENE,Xenon Pharmaceuticals Inc.,Kelly Thomas Patrick,CFO,P - Purchase,2026-10-01 09:20:20,2026-09-30,37.32,15000,559740.0,
+XENE,Xenon Pharmaceuticals Inc.,Mortimer Ian,"Pres, CEO",P - Purchase,2026-10-01 09:19:28,2026-09-30,37.38,30000,1121400.0,
+UXIN,Uxin Ltd,Dai Kun,CEO,P - Purchase,2026-10-01 07:55:33,2026-09-30,1.34,7443,9945.0,
+INLX,"Intellinetics, Inc.",Seid Paul,Dir,P - Purchase,2026-09-30 17:47:33,2026-09-30,5.15,184,948.0,M
+KWY,Kingsway Corp,Fitzgerald John Taylor Maloney,"Pres, CEO",P - Purchase,2026-09-30 16:58:14,2026-09-30,9.3,269,2502.0,
+KWY,Kingsway Corp,Hansen Kent A,"CFO, EVP",P - Purchase,2026-09-30 16:57:27,2026-09-30,9.3,169,1572.0,
+RVT,"Royce Small-Cap Trust, Inc.",Clark Christopher D,Pres,P - Purchase,2026-09-30 16:55:49,2026-09-30,17.06,1200,20472.0,
+GPUS,"Hyperscale Data, Inc.",Horne William B.,CEO,P - Purchase,2026-09-30 16:30:06,2026-09-30,0.16,100000,16300.0,
+ANIX,Anixa Biosciences Inc,Catelani Michael,"Pres, COO, CFO",P - Purchase,2026-09-30 10:25:37,2026-09-30,2.84,5500,15620.0,
